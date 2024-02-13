@@ -8,6 +8,9 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
+gem 'bigdecimal', '3.0.0'
+# gem 'commonmarker', '0.23.0'
+# gem 'racc', '1.4.14'
 
 gem "github-pages", group: :jekyll_plugins
 
@@ -25,3 +28,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+gem "webrick", "~> 1.8"
