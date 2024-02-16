@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Shi Jie Samuel Tan (陈诗杰) and I go by Sam. I am a first-year CS PhD student at the University of Maryland and am currently advised by Andrew Childs and am working with Daniel Gottesman. In 2023, I graduated magna cum laude from Haverford College with high honors in both Computer Science and Physics, and I was fortunate to be advised by Dan Grin, Suzanne Amador Kane, Steven Lindell, and Sara Mathieson.
+I am Shi Jie Samuel Tan (陈诗杰) and I go by Sam. I am a first-year CS PhD student at the University of Maryland and am currently advised by Andrew Childs and am working with Daniel Gottesman. In 2023, I graduated magna cum laude from Haverford College with high honors in both Computer Science and Physics, and I was fortunate to be advised by <a href="http://danielgrin.net/" target="_blank">Dan Grin</a> and <a href="https://www.haverford.edu/users/slindell" target="_blank">Steven Lindell</a>.
 
 
 ## Research Interest:
@@ -24,8 +24,8 @@ My ultimate dream is to build quantum machines that can discover new facets of o
 ## Related Experiences:
 
 * In Summer 2023, I was a research fellow at the <a href="https://www.lanl.gov/projects/national-security-education-center/information-science-technology/summer-schools/quantumcomputing/index.php" target="_blank">Los Alamos National Laboratory (LANL) Quantum Computing Summer School (QCSS)</a> under the mentorship of <a href="https://scholar.google.com/citations?user=VUHwzlwAAAAJ&hl=en" target="_blank">Yiğit Subaşı</a> and <a href="https://www.linkedin.com/in/sam-slezak-61253024b" target="_blank">Sam Slezak</a>.
-* In Summer 2022, I was a undergraduate research fellow in the <a href="https://sfp.caltech.edu/undergraduate-research/programs/surf" target="_blank">Caltech's Summer Undergraduate Research Fellowship program</a> under the mentorship of <a href="https://www.its.caltech.edu/~preskill/" target="_blank">John Preskill</a> and <a href="https://scholar.google.com/citations?user=4neYf8oAAAAJ&hl=en" target="_blank">Chris Pattison</a>.
-* In Summer 2021, I was a undergraduate research assistant in <a href="https://www.cs.umd.edu/projects/reucaar/" target="_blank">University of Maryland's Research Experience for Undergraduates (REU) Combinatorics, Algorithms, and AI for Real Problems (CAAR)</a> under the mentorship of <a href="https://matthewcoudron.github.io/" target="_blank">Matthew Coudron</a> and <a href="https://www.alagic.org/" target="_blank">Gorjan Alagic</a>.
+* In Summer 2022, I was an undergraduate research fellow in the <a href="https://sfp.caltech.edu/undergraduate-research/programs/surf" target="_blank">Caltech's Summer Undergraduate Research Fellowship program</a> under the mentorship of <a href="https://www.its.caltech.edu/~preskill/" target="_blank">John Preskill</a> and <a href="https://scholar.google.com/citations?user=4neYf8oAAAAJ&hl=en" target="_blank">Chris Pattison</a>.
+* In Summer 2021, I was an undergraduate research assistant in <a href="https://www.cs.umd.edu/projects/reucaar/" target="_blank">University of Maryland's Research Experience for Undergraduates (REU) Combinatorics, Algorithms, and AI for Real Problems (CAAR)</a> under the mentorship of <a href="https://matthewcoudron.github.io/" target="_blank">Matthew Coudron</a> and <a href="https://www.alagic.org/" target="_blank">Gorjan Alagic</a>.
 
 
 ## Publications:
@@ -35,7 +35,7 @@ D. Patel, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author), Y. Subaşı, A
 *Contributed talk at APS March Meeting (2024).* [<a href="https://meetings.aps.org/Meeting/MAR24/Session/S49.2" target="_blank">pdf</a>]
 
 1. *Approximating output probabilities of shallow quantum circuits which are geometrically-local in any fixed dimension* <br>
-S. Dontha, **S. J. S. Tan**, S. Smith, S. Choi, M. Coudron.<br>
+S. Dontha, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author), S. Smith, S. Choi, M. Coudron.<br>
 *Contributed talk at TQC (2022).* [<a href="https://arxiv.org/abs/2202.08349" target="_blank">pdf</a>]
 
 <!-- 1. *Local minima in quantum systems* <br>
@@ -228,17 +228,17 @@ A. Elben, R. Kueng, **H.-Y. Huang**, R. van Bijnen, C. Kokail, M. Dalmonte, P. C
 
 ### >> Pre-quantum
 
-I have previously worked on computational biology at <a href="https://smathieson.sites.haverford.edu/" target="_blank">Sara Mathieson's group</a>, and representation-theoretic probability theory with <a href="https://www.haverford.edu/users/emilicevic" target="_blank">Elizabeth Milićević</a>.
+I have previously worked on computational biology with <a href="https://smathieson.sites.haverford.edu/" target="_blank">Sara Mathieson</a>, and representation-theoretic probability theory with <a href="https://www.haverford.edu/users/emilicevic" target="_blank">Elizabeth Milićević</a>.
 
 
 {:start="3"}
 3. *Random Walks on the Generalized Symmetric Group: Cutoff for the One-sided Transposition Shuffle* <br>
-Y. Deng, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author). <br>
+**(alphabetical order)** Y. Deng, **S. J. S. Tan**. <br>
 *Submitted to Electronic Journal of Probability (2023)*. [<a href="https://arxiv.org/abs/2211.10462" target="_blank">pdf</a>]
 
 2. *Comparison of cohort-based identical-by-descent (IBD) segment finding methods for endogamous populations* <br>
 H. T. Dang, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author), S. Mathieson. <br>
-*Proceedings of ACM-BCB (2022)*. [<a href="https://dl.acm.org/doi/abs/10.1145/3535508.3545104" target="_blank">pdf</a>]
+*<a href="https://dl.acm.org/doi/abs/10.1145/3535508.3545104" target="_blank">Proceedings of ACM-BCB (2022)</a>*。
 
 1. *Ancestral haplotype reconstruction in endogamous populations using identity-by-descent* <br>
 K. Finke, M. Kourakos, G. Brown, H. T. Dang, **S. J. S. Tan**, Y. B. Simons, S. Ramdas, A. A. Schäffer, R. L. Kember, M. Bućan, S. Mathieson. <br>
