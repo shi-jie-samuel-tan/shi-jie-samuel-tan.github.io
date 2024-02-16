@@ -232,9 +232,13 @@ I have previously worked on computational biology at <a href="https://smathieson
 
 
 {:start="3"}
-2. *Random Walks on the Generalized Symmetric Group: Cutoff for the One-sided Transposition Shuffle* <br>
+3. *Random Walks on the Generalized Symmetric Group: Cutoff for the One-sided Transposition Shuffle* <br>
 Y. Deng, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author). <br>
 *Submitted to Electronic Journal of Probability (2023)*. [<a href="https://arxiv.org/abs/2211.10462" target="_blank">pdf</a>]
+
+2. *Comparison of cohort-based identical-by-descent (IBD) segment finding methods for endogamous populations* <br>
+H. T. Dang, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author), S. Mathieson. <br>
+*Proceedings of ACM-BCB (2022)*. [<a href="https://dl.acm.org/doi/abs/10.1145/3535508.3545104" target="_blank">pdf</a>]
 
 1. *Ancestral haplotype reconstruction in endogamous populations using identity-by-descent* <br>
 K. Finke, M. Kourakos, G. Brown, H. T. Dang, **S. J. S. Tan**, Y. B. Simons, S. Ramdas, A. A. Schäffer, R. L. Kember, M. Bućan, S. Mathieson. <br>
