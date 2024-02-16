@@ -7,34 +7,38 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Shi Jie Samuel Tan (陈诗杰), a first-year CS PhD student at the University of Maryland, College Park. I am currently advised by Andrew Childs and am working with Daniel Gottesman. 
+I am Shi Jie Samuel Tan (陈诗杰) and I go by Sam. I am a first-year CS PhD student at the University of Maryland and am currently advised by Andrew Childs and am working with Daniel Gottesman. In 2023, I graduated magna cum laude from Haverford College with high honors in both Computer Science and Physics, and I was fortunate to be advised by Dan Grin, Suzanne Amador Kane, Steven Lindell, and Sara Mathieson.
+
 
 ## Research Interest:
 
-My research aims to build a rigorous foundation for understanding how scientists, machines, and future quantum computers can learn and discover new phenomena governing our quantum-mechanical universe (molecules, materials, pharmaceutics, exotic quantum matter, engineered quantum devices, etc.).
+<!-- My research aims to build a rigorous foundation for understanding how scientists, machines, and future quantum computers can learn and discover new phenomena governing our quantum-mechanical universe (molecules, materials, pharmaceutics, exotic quantum matter, engineered quantum devices, etc.).
 
 I utilize concepts and tools in quantum information theory, quantum many-body physics, learning theory, and complexity theory to formalize and explore new questions spawning from the following directions:
 * When can quantum machines learn and predict better than classical machines?
 * How to accelerate/automate the development of quantum and physical sciences?
 * What physical phenomena can classical vs quantum machines learn and discover?
 
-My ultimate dream is to build quantum machines that can discover new facets of our universe beyond the capabilities of humans and classical machines.
+My ultimate dream is to build quantum machines that can discover new facets of our universe beyond the capabilities of humans and classical machines. -->
 
-<center>
-<img src="assets/img/Intelligence.jpg"
-     alt="Cartoon depiction of intelligence"
-     style="text-align:center; width:65%; border-radius:15%; padding-top:15px; padding-bottom:1px" />
-</center>
+## Related Experiences:
+
+* In Summer 2023, I was a research fellow at the <a href="https://www.lanl.gov/projects/national-security-education-center/information-science-technology/summer-schools/quantumcomputing/index.php" target="_blank">Los Alamos National Laboratory (LANL) Quantum Computing Summer School (QCSS)</a> under the mentorship of <a href="https://scholar.google.com/citations?user=VUHwzlwAAAAJ&hl=en" target="_blank">Yiğit Subaşı</a> and <a href="https://www.linkedin.com/in/sam-slezak-61253024b" target="_blank">Sam Slezak</a>.
+* In Summer 2022, I was a undergraduate research fellow in the <a href="https://sfp.caltech.edu/undergraduate-research/programs/surf" target="_blank">Caltech's Summer Undergraduate Research Fellowship program</a> under the mentorship of <a href="https://www.its.caltech.edu/~preskill/" target="_blank">John Preskill</a> and <a href="https://scholar.google.com/citations?user=4neYf8oAAAAJ&hl=en" target="_blank">Chris Pattison</a>.
+* In Summer 2021, I was a undergraduate research assistant in <a href="https://www.cs.umd.edu/projects/reucaar/" target="_blank">University of Maryland's Research Experience for Undergraduates (REU) Combinatorics, Algorithms, and AI for Real Problems (CAAR)</a> under the mentorship of <a href="https://matthewcoudron.github.io/" target="_blank">Matthew Coudron</a> and <a href="https://www.alagic.org/" target="_blank">Gorjan Alagic</a>.
+
 
 ## Publications:
 
-<a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ&hl=en" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. Selected publications are labeled by :dart:.
+1. *Tapered Quantum Phase Estimation* <br>
+D. Patel, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author), Y. Subaşı, A. T. Sornborger.<br>
+*Contributed talk at APS March Meeting (2024).* [<a href="https://meetings.aps.org/Meeting/MAR24/Session/S49.2" target="_blank">pdf</a>]
 
-1. *Learning shallow quantum circuits* <br>
-**H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), Y. Liu<sup>$\dagger$</sup>, M. Broughton, I. Kim, A. Anshu, Z. Landau, J. R. McClean.<br>
-*Short plenary talk at QIP (2024).* [<a href="https://arxiv.org/abs/2401.10095" target="_blank">pdf</a>] [<a href="https://hsinyuan-huang.github.io/assets/img/Learning-shallow-QC-QIP.pdf" target="_blank">QIP Slide</a>] [<a href="https://x.com/RobertHuangHY/status/1748917003170332700?s=20" target="_blank">Twitter thread</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_learningshallow/" target="_blank">PennyLane Demo</a>]
+1. *Approximating output probabilities of shallow quantum circuits which are geometrically-local in any fixed dimension* <br>
+S. Dontha, **S. J. S. Tan**, S. Smith, S. Choi, M. Coudron.<br>
+*Contributed talk at TQC (2022).* [<a href="https://arxiv.org/abs/2202.08349" target="_blank">pdf</a>]
 
-1. *Local minima in quantum systems* <br>
+<!-- 1. *Local minima in quantum systems* <br>
 **(alphabetical order)** C.-F. Chen, H.-Y. Huang, J. Preskill, L. Zhou.<br>
 *Contributed talk at QIP (2024).* [<a href="https://arxiv.org/abs/2309.16596" target="_blank">pdf</a>] [<a href="https://twitter.com/RobertHuangHY/status/1707861752942145672" target="_blank">Twitter thread</a>]
 
@@ -217,33 +221,21 @@ A. Elben, R. Kueng, **H.-Y. Huang**, R. van Bijnen, C. Kokail, M. Dalmonte, P. C
 1. :dart: *Predicting many properties in a quantum system from very few measurements* <br>
 **H.-Y. Huang**, R. Kueng, J. Preskill. <br>
 *<a href="https://www.nature.com/articles/s41567-020-0932-7" target="_blank">Nature Physics (2020)</a>, Short plenary talk at QIP (2020).*<br>
-[<a href="https://arxiv.org/abs/2002.08953" target="_blank">pdf</a>] [<a href="https://github.com/hsinyuan-huang/predicting-quantum-properties" target="_blank">code</a>] [<a href="https://en.wikipedia.org/wiki/Classical_shadow" target="_blank">Wikipedia page</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_classical_shadows.html" target="_blank">PennyLane Tutorial</a>] [<a href="https://www.youtube.com/watch?v=NXejv2wVwas&t=2553s&ab_channel=SimonsInstitute" target="_blank">Talk by John Preskill</a>] [<a href="https://phys.org/news/2020-07-method-properties-complex-quantum.html" target="_blank">Phys.org News</a>] [<a href="https://www.quantamagazine.org/machine-learning-aids-classical-modeling-of-quantum-systems-20230914/" target="_blank">Quanta Magazine</a>]
+[<a href="https://arxiv.org/abs/2002.08953" target="_blank">pdf</a>] [<a href="https://github.com/hsinyuan-huang/predicting-quantum-properties" target="_blank">code</a>] [<a href="https://en.wikipedia.org/wiki/Classical_shadow" target="_blank">Wikipedia page</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_classical_shadows.html" target="_blank">PennyLane Tutorial</a>] [<a href="https://www.youtube.com/watch?v=NXejv2wVwas&t=2553s&ab_channel=SimonsInstitute" target="_blank">Talk by John Preskill</a>] [<a href="https://phys.org/news/2020-07-method-properties-complex-quantum.html" target="_blank">Phys.org News</a>] [<a href="https://www.quantamagazine.org/machine-learning-aids-classical-modeling-of-quantum-systems-20230914/" target="_blank">Quanta Magazine</a>] -->
 
 
 * * *
 
 ### >> Pre-quantum
 
-I have previously worked on machine learning at <a href="https://scholar.google.com/citations?user=SLMkts8AAAAJ&hl=en" target="_blank">Chih-Jen Lin's group</a>, deep learning at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-ai/" target="_blank">Microsoft Research</a> and <a href="https://allenai.org/" target="_blank">Allen Institute of AI</a>, and biology at <a href="http://sbl.csie.org/JuanLab/doku.php?id=PI:Hsueh-Fen%20Juan" target="_blank">Hsueh-Fen Juan's lab</a>.
+I have previously worked on computational biology at <a href="https://smathieson.sites.haverford.edu/" target="_blank">Sara Mathieson's group</a>, and representation-theoretic probability theory with <a href="https://www.haverford.edu/users/emilicevic" target="_blank">Elizabeth Milićević</a>.
 
 
-{:start="37"}
-5. *FlowQA: grasping flow in history for conversational machine comprehension* <br>
-**H.-Y. Huang**, E. Choi, W. Yih. <br>
-*ICLR (2019)*. [<a href="https://arxiv.org/abs/1810.06683" target="_blank">pdf</a>]
+{:start="3"}
+2. *Random Walks on the Generalized Symmetric Group: Cutoff for the One-sided Transposition Shuffle* <br>
+Y. Deng, **S. J. S. Tan**. <br>
+*Submitted to Electronic Journal of Probability (2023)*. [<a href="https://arxiv.org/abs/2211.10462" target="_blank">pdf</a>]
 
-4. *FusionNet: Fusing via Fully-aware attention with application to machine comprehension* <br>
-**H.-Y. Huang**, C. Zhu, Y. Shen, W. Chen. <br>
-*ICLR (2018)*.  [<a href="https://arxiv.org/abs/1711.07341" target="_blank">pdf</a>]
-
-3. *A unified algorithm for one-class structured matrix factorization with side information* <br>
-H.-F. Yu, **H.-Y. Huang**, I. S. Dhillon, C.-J. Lin. <br>
-*AAAI (2017)*. [<a href="https://www.csie.ntu.edu.tw/~cjlin/papers/ocmf-side/biased-leml-aaai-with-supp.pdf" target="_blank">pdf</a>]
-
-2. *Linear and kernel classification: When to use which?* <br>
-**H.-Y. Huang**, C.-J. Lin. <br>
-*SDM (2016)*. [<a href="https://www.csie.ntu.edu.tw/~cjlin/papers/kernel-check/kcheck.pdf" target="_blank">pdf</a>]
-
-1. *Dissecting the human protein-protein interaction network via phylogenetic decomposition* <br>
-C.-Y. Chen, A. Ho, **H.-Y. Huang**, H.-F. Juan and H.-C. Huang. <br>
-*<a href="https://www.nature.com/articles/srep07153" target="_blank">Scientific Reports (2014)</a>*.
+1. *Ancestral haplotype reconstruction in endogamous populations using identity-by-descent* <br>
+K. Finke, M. Kourakos, G. Brown, H. T. Dang, **S. J. S. Tan**, Y. B. Simons, S. Ramdas, A. A. Schäffer, R. L. Kember, M. Bućan, S. Mathieson. <br>
+*<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008638" target="_blank">PLOS Computational Biology (2021)</a>*.
