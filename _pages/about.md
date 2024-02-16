@@ -233,7 +233,7 @@ I have previously worked on computational biology at <a href="https://smathieson
 
 {:start="3"}
 2. *Random Walks on the Generalized Symmetric Group: Cutoff for the One-sided Transposition Shuffle* <br>
-Y. Deng, **S. J. S. Tan**. <br>
+Y. Deng, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author). <br>
 *Submitted to Electronic Journal of Probability (2023)*. [<a href="https://arxiv.org/abs/2211.10462" target="_blank">pdf</a>]
 
 1. *Ancestral haplotype reconstruction in endogamous populations using identity-by-descent* <br>
