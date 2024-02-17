@@ -11,7 +11,7 @@ I am Shi Jie Samuel Tan (陈诗杰) and I go by Sam. I am a first-year CS PhD st
 
 I am broadly interested in quantum error correction and fault tolerance. I utilize concepts and tools in quantum information theory, homological algebra, and graph theory to understand and advance the construction of quantum error correcting codes and fault-tolerant protocols. I also dabble in quantum algorithms and quantum metrology. 
 
-My ultimate goal is to build fault-tolerant quantum computers that can withstand the natural decohering forces of our world for the advancement of human knowledge beyond what is achievable by classical computers. -->
+My ultimate goal is to build fault-tolerant quantum computers that can withstand the natural decohering forces of our world for the advancement of human knowledge beyond what is achievable by classical computers.
 
 ## Related Experiences:
 
