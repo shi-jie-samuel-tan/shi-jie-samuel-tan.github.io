@@ -13,6 +13,8 @@ I am broadly interested in quantum error correction and fault tolerance. I utili
 
 My ultimate goal is to build fault-tolerant quantum computers that can withstand the natural decohering forces of our world for the advancement of human knowledge beyond what is achievable by classical computers.
 
+Email: stan97 (at) umd (dot) edu
+
 ## Related Experiences:
 
 * In Summer 2024, I will be a research intern at <a href="https://www.riverlane.com/research" target="_blank">Riverlane Research</a> under the mentorship of <a href="https://scholar.google.com/citations?user=whTm1tIAAAAJ&hl=en" target="_blank">Hari Krovi</a>.
