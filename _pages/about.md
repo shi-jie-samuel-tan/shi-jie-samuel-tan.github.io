@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "About Me"
 # excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -9,20 +9,13 @@ redirect_from:
 ---
 I am Shi Jie Samuel Tan (陈诗杰) and I go by Sam. I am a first-year CS PhD student at the University of Maryland and am currently advised by <a href="https://www.cs.umd.edu/~amchilds/" target="_blank">Andrew Childs</a> and am working with <a href="https://www.cs.umd.edu/~dgottesm/" target="_blank">Daniel Gottesman</a>. In 2023, I graduated magna cum laude from Haverford College with high honors in both Computer Science and Physics, and I was fortunate to be advised by <a href="http://danielgrin.net/" target="_blank">Dan Grin</a> and <a href="https://www.haverford.edu/users/slindell" target="_blank">Steven Lindell</a>.
 
+I am broadly interested in quantum error correction and fault tolerance. I utilize concepts and tools in quantum information theory, homological algebra, and graph theory to understand and advance the construction of quantum error correcting codes and fault-tolerant protocols. I also dabble in quantum algorithms and quantum metrology. 
 
-## Research Interest:
-
-<!-- My research aims to build a rigorous foundation for understanding how scientists, machines, and future quantum computers can learn and discover new phenomena governing our quantum-mechanical universe (molecules, materials, pharmaceutics, exotic quantum matter, engineered quantum devices, etc.).
-
-I utilize concepts and tools in quantum information theory, quantum many-body physics, learning theory, and complexity theory to formalize and explore new questions spawning from the following directions:
-* When can quantum machines learn and predict better than classical machines?
-* How to accelerate/automate the development of quantum and physical sciences?
-* What physical phenomena can classical vs quantum machines learn and discover?
-
-My ultimate dream is to build quantum machines that can discover new facets of our universe beyond the capabilities of humans and classical machines. -->
+My ultimate goal is to build fault-tolerant quantum computers that can withstand the natural decohering forces of our world for the advancement of human knowledge beyond what is achievable by classical computers. -->
 
 ## Related Experiences:
 
+* In Summer 2024, I will be a research intern at <a href="https://www.riverlane.com/research" target="_blank">Riverlane Research</a> under the mentorship of <a href="https://scholar.google.com/citations?user=whTm1tIAAAAJ&hl=en" target="_blank">Hari Krovi</a>.
 * In Summer 2023, I was a research fellow at the <a href="https://www.lanl.gov/projects/national-security-education-center/information-science-technology/summer-schools/quantumcomputing/index.php" target="_blank">Los Alamos National Laboratory (LANL) Quantum Computing Summer School (QCSS)</a> under the mentorship of <a href="https://scholar.google.com/citations?user=VUHwzlwAAAAJ&hl=en" target="_blank">Yiğit Subaşı</a> and <a href="https://www.linkedin.com/in/sam-slezak-61253024b" target="_blank">Sam Slezak</a>.
 * In Summer 2022, I was an undergraduate research fellow in the <a href="https://sfp.caltech.edu/undergraduate-research/programs/surf" target="_blank">Caltech's Summer Undergraduate Research Fellowship program</a> under the mentorship of <a href="https://www.its.caltech.edu/~preskill/" target="_blank">John Preskill</a> and <a href="https://scholar.google.com/citations?user=4neYf8oAAAAJ&hl=en" target="_blank">Chris Pattison</a>.
 * In Summer 2021, I was an undergraduate research assistant in <a href="https://www.cs.umd.edu/projects/reucaar/" target="_blank">University of Maryland's Research Experience for Undergraduates (REU) Combinatorics, Algorithms, and AI for Real Problems (CAAR)</a> under the mentorship of <a href="https://matthewcoudron.github.io/" target="_blank">Matthew Coudron</a> and <a href="https://www.alagic.org/" target="_blank">Gorjan Alagic</a>.
