@@ -11,7 +11,9 @@ I am Shi Jie Samuel Tan (陈诗杰) and I go by Sam. I am a first-year CS PhD st
 
 I am broadly interested in quantum error correction and fault tolerance. I utilize concepts and tools in quantum information theory, homological algebra, and graph theory to understand and advance the construction of quantum error correcting codes and fault-tolerant protocols. I also dabble in quantum algorithms and quantum metrology. 
 
-My ultimate goal is to build fault-tolerant quantum computers that can withstand the natural decohering forces of our world for the advancement of human knowledge beyond what is achievable by classical computers. -->
+My ultimate goal is to build fault-tolerant quantum computers that can withstand the natural decohering forces of our world for the advancement of human knowledge beyond what is achievable by classical computers.
+
+Email: stan97 (at) umd (dot) edu
 
 ## Related Experiences:
 
@@ -231,7 +233,7 @@ I have previously worked on computational biology with <a href="https://smathies
 
 2. *Comparison of cohort-based identical-by-descent (IBD) segment finding methods for endogamous populations* <br>
 H. T. Dang, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author), S. Mathieson. <br>
-*<a href="https://dl.acm.org/doi/abs/10.1145/3535508.3545104" target="_blank">Proceedings of ACM-BCB (2022)</a>*。
+*<a href="https://dl.acm.org/doi/abs/10.1145/3535508.3545104" target="_blank">Proceedings of ACM-BCB (2022)</a>*.
 
 1. *Ancestral haplotype reconstruction in endogamous populations using identity-by-descent* <br>
 K. Finke, M. Kourakos, G. Brown, H. T. Dang, **S. J. S. Tan**, Y. B. Simons, S. Ramdas, A. A. Schäffer, R. L. Kember, M. Bućan, S. Mathieson. <br>
