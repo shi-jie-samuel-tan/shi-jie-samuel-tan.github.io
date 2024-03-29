@@ -23,9 +23,9 @@ My ultimate goal is to build fault-tolerant quantum computers that can withstand
 
 ## Publications:
 
-1. *Tapered Quantum Phase Estimation* <br>
+1. *Optimal Coherent Quantum Phase Estimation via Tapering* <br>
 D. Patel, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author), Y. Subaşı, A. T. Sornborger.<br>
-*Contributed talk at APS March Meeting (2024).* [<a href="https://meetings.aps.org/Meeting/MAR24/Session/S49.2" target="_blank">pdf</a>]
+*Contributed talk at APS March Meeting (2024).* [<a href="https://arxiv.org/abs/2403.18927" target="_blank">pdf</a>]
 
 1. *Approximating output probabilities of shallow quantum circuits which are geometrically-local in any fixed dimension* <br>
 S. Dontha, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author), S. Smith, S. Choi, M. Coudron.<br>
