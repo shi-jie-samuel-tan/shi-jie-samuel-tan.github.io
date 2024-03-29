@@ -43,7 +43,7 @@ I have previously worked on computational biology with <a href="https://smathies
 {:start="3"}
 3. *Random Walks on the Generalized Symmetric Group: Cutoff for the One-sided Transposition Shuffle* <br>
 **(alphabetical order)** Y. Deng, **S. J. S. Tan**. <br>
-[<a href="https://arxiv.org/abs/2211.10462" target="_blank">pdf</a>]
+arXiv (2022). [<a href="https://arxiv.org/abs/2211.10462" target="_blank">pdf</a>]
 
 2. *Comparison of cohort-based identical-by-descent (IBD) segment finding methods for endogamous populations* <br>
 H. T. Dang, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author), S. Mathieson. <br>
