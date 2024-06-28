@@ -43,7 +43,7 @@ S. Dontha, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author), S. Smith, S. 
 I have previously worked on computational biology with <a href="https://smathieson.sites.haverford.edu/" target="_blank">Sara Mathieson</a>, and representation-theoretic probability theory with <a href="https://www.haverford.edu/users/emilicevic" target="_blank">Elizabeth Milićević</a>.
 
 
-{:start="3"}
+{:start="4"}
 3. *Random Walks on the Generalized Symmetric Group: Cutoff for the One-sided Transposition Shuffle* <br>
 **(alphabetical order)** Y. Deng, **S. J. S. Tan**. <br>
 arXiv (2022). [<a href="https://arxiv.org/abs/2211.10462" target="_blank">pdf</a>]
