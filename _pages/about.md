@@ -24,6 +24,10 @@ Email: stan97 (at) umd (dot) edu
 
 ## Publications:
 
+1. *Resilience of the surface code to error bursts* <br>
+**S. J. S. Tan**, C. A. Pattison, M. McEwen, J. Preskill.<br>
+*Contributed poster at QEC (2023).* [<a href="https://arxiv.org/pdf/2406.18897" target="_blank">pdf</a>]
+
 1. *Optimal Coherent Quantum Phase Estimation via Tapering* <br>
 D. Patel, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author), Y. Subaşı, A. T. Sornborger.<br>
 *Contributed talk at APS March Meeting (2024).* [<a href="https://arxiv.org/abs/2403.18927" target="_blank">pdf</a>]
