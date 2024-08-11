@@ -29,11 +29,11 @@ Email: stan97 (at) umd (dot) edu
 *Contributed poster at QEC (2023).* [<a href="https://arxiv.org/pdf/2406.18897" target="_blank">pdf</a>]
 
 1. *Optimal Coherent Quantum Phase Estimation via Tapering* <br>
-D. Patel, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author), Y. Subaşı, A. T. Sornborger.<br>
+D. Patel<sup>$\dagger$</sup>, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author), Y. Subaşı, A. T. Sornborger.<br>
 *Contributed talk at APS March Meeting (2024).* [<a href="https://arxiv.org/abs/2403.18927" target="_blank">pdf</a>]
 
 1. *Approximating output probabilities of shallow quantum circuits which are geometrically-local in any fixed dimension* <br>
-S. Dontha, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author), S. Smith, S. Choi, M. Coudron.<br>
+S. Dontha<sup>$\dagger$</sup>, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author), S. Smith, S. Choi, M. Coudron.<br>
 *Contributed talk at TQC (2022).* [<a href="https://arxiv.org/abs/2202.08349" target="_blank">pdf</a>]
 
 * * *
@@ -53,7 +53,7 @@ bioRxiv (2024). [<a href="https://www.biorxiv.org/content/10.1101/2024.08.07.607
 arXiv (2022). [<a href="https://arxiv.org/abs/2211.10462" target="_blank">pdf</a>]
 
 2. *Comparison of cohort-based identical-by-descent (IBD) segment finding methods for endogamous populations* <br>
-H. T. Dang, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author), S. Mathieson. <br>
+H. T. Dang<sup>$\dagger$</sup>, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author), S. Mathieson. <br>
 *<a href="https://dl.acm.org/doi/abs/10.1145/3535508.3545104" target="_blank">Proceedings of ACM-BCB (2022)</a>*.
 
 1. *Ancestral haplotype reconstruction in endogamous populations using identity-by-descent* <br>
