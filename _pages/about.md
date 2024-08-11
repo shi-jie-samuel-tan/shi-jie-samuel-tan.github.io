@@ -44,6 +44,10 @@ I have previously worked on computational biology with <a href="https://smathies
 
 
 {:start="4"}
+4. *Identity-by-descent (IBD) segment outlier detection in endogamous populations using pedigree cohorts* <br>
+**S. J. S. Tan**, H. T. Dang, S. Keim, M. Bućan, S. Mathieson. <br>
+bioRxiv (2024). [<a href="https://www.biorxiv.org/content/10.1101/2024.08.07.607051v1.abstract" target="_blank">pdf</a>]
+
 3. *Random Walks on the Generalized Symmetric Group: Cutoff for the One-sided Transposition Shuffle* <br>
 **(alphabetical order)** Y. Deng, **S. J. S. Tan**. <br>
 arXiv (2022). [<a href="https://arxiv.org/abs/2211.10462" target="_blank">pdf</a>]
