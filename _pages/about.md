@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Shi Jie Samuel Tan (陈诗杰) and I go by Sam. I am a first-year CS PhD student at the University of Maryland and am currently advised by <a href="https://www.cs.umd.edu/~amchilds/" target="_blank">Andrew Childs</a> and am working with <a href="https://www.cs.umd.edu/~dgottesm/" target="_blank">Daniel Gottesman</a>. In 2023, I graduated magna cum laude from Haverford College with high honors in both Computer Science and Physics, and I was fortunate to be advised by <a href="http://danielgrin.net/" target="_blank">Dan Grin</a> and <a href="https://www.haverford.edu/users/slindell" target="_blank">Steven Lindell</a>.
+I am Shi Jie Samuel Tan (陈诗杰) and I go by Sam. I am a second-year CS PhD student at the University of Maryland and am currently advised by <a href="https://www.cs.umd.edu/~amchilds/" target="_blank">Andrew Childs</a> and am working with <a href="https://www.cs.umd.edu/~dgottesm/" target="_blank">Daniel Gottesman</a>. In 2023, I graduated magna cum laude from Haverford College with high honors in both Computer Science and Physics, and I was fortunate to be advised by <a href="http://danielgrin.net/" target="_blank">Dan Grin</a> and <a href="https://www.haverford.edu/users/slindell" target="_blank">Steven Lindell</a>.
 
 I am broadly interested in quantum error correction and fault tolerance. I utilize concepts and tools in quantum information theory, homological algebra, and graph theory to understand and advance the construction of quantum error correcting codes and fault-tolerant protocols. I also dabble in quantum algorithms and quantum metrology. 
 
