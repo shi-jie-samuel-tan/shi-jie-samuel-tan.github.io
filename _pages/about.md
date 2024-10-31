@@ -26,8 +26,7 @@ Email: stan97 (at) umd (dot) edu
 
 1. *Effective Distance of Higher Dimensional HGPs and Weight-Reduced Quantum LDPC Codes* <br>
 **S. J. S. Tan**, L. Stambler.<br>
-arXiv (2024). [<a href="[https://arxiv.org/pdf/2406.18897](https://arxiv.org/pdf/2409.02193
-)" target="_blank">pdf</a>][<a href="https://youtu.be/h3ahgjAhyOI" target="_blank">Invited talk at UMD CCSP Seminar</a>]
+arXiv (2024). [<a href="https://arxiv.org/pdf/2409.0219" target="_blank">pdf</a>][<a href="https://youtu.be/h3ahgjAhyOI" target="_blank">Invited talk at UMD CCSP Seminar</a>]
 
 1. *Resilience of the surface code to error bursts* <br>
 **S. J. S. Tan**, C. A. Pattison, M. McEwen, J. Preskill.<br>
