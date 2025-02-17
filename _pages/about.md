@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Shi Jie Samuel Tan (陈诗杰) and I go by Sam. I am a second-year CS PhD student at the University of Maryland and am currently advised by <a href="https://www.cs.umd.edu/~amchilds/" target="_blank">Andrew Childs</a> and am working with <a href="https://www.cs.umd.edu/~dgottesm/" target="_blank">Daniel Gottesman</a>. In 2023, I graduated magna cum laude from Haverford College with high honors in both Computer Science and Physics, and I was fortunate to be advised by <a href="http://danielgrin.net/" target="_blank">Dan Grin</a> and <a href="https://www.haverford.edu/users/slindell" target="_blank">Steven Lindell</a>.
+I am Shi Jie Samuel Tan (陈诗杰) and I go by Sam. I am a second-year CS PhD student at the University of Maryland and am currently advised by <a href="https://www.cs.umd.edu/~dgottesm/" target="_blank">Daniel Gottesman</a>. In 2023, I graduated magna cum laude from Haverford College with high honors in both Computer Science and Physics.
 
 I am broadly interested in quantum error correction and fault tolerance. I utilize concepts and tools in quantum information theory, homological algebra, and graph theory to understand and advance the construction of quantum error correcting codes and fault-tolerant protocols. I also dabble in quantum algorithms and quantum metrology. 
 
@@ -16,7 +16,7 @@ My ultimate goal is to build fault-tolerant quantum computers that can withstand
 Email: stan97 (at) umd (dot) edu
 
 ## Related Experiences:
-
+* In Summer 2025, I will be a quantum error correction research intern at <a href="https://www.quera.com/" target="_blank">QuEra Computing Inc.</a> under the mentorship of </a> under the mentorship of <a href="https://scholar.google.com/citations?hl=en&user=XLHpQy8AAAAJ" target="_blank">Hengyun (Harry) Zhou</a>.
 * In Summer 2023, I was a research fellow at the <a href="https://www.lanl.gov/projects/national-security-education-center/information-science-technology/summer-schools/quantumcomputing/index.php" target="_blank">Los Alamos National Laboratory (LANL) Quantum Computing Summer School (QCSS)</a> under the mentorship of <a href="https://scholar.google.com/citations?user=VUHwzlwAAAAJ&hl=en" target="_blank">Yiğit Subaşı</a> and <a href="https://www.linkedin.com/in/sam-slezak-61253024b" target="_blank">Sam Slezak</a>.
 * In Summer 2022, I was an undergraduate research fellow in the <a href="https://sfp.caltech.edu/undergraduate-research/programs/surf" target="_blank">Caltech's Summer Undergraduate Research Fellowship program</a> under the mentorship of <a href="https://www.its.caltech.edu/~preskill/" target="_blank">John Preskill</a> and <a href="https://scholar.google.com/citations?user=4neYf8oAAAAJ&hl=en" target="_blank">Chris Pattison</a>.
 * In Summer 2021, I was an undergraduate research assistant in <a href="https://www.cs.umd.edu/projects/reucaar/" target="_blank">University of Maryland's Research Experience for Undergraduates (REU) Combinatorics, Algorithms, and AI for Real Problems (CAAR)</a> under the mentorship of <a href="https://matthewcoudron.github.io/" target="_blank">Matthew Coudron</a> and <a href="https://www.alagic.org/" target="_blank">Gorjan Alagic</a>.
