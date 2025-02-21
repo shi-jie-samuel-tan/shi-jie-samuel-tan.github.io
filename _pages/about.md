@@ -24,6 +24,10 @@ Email: stan97 (at) umd (dot) edu
 
 ## Publications:
 
+1. *Adaptive Syndrome Extraction* <br>
+N. Berthusen, **S. J. S. Tan**, E. Huang, D. Gottesman.<br>
+arXiv (2025). [<a href="https://arxiv.org/abs/2502.14835" target="_blank">pdf</a>]
+
 1. *Effective Distance of Higher Dimensional HGPs and Weight-Reduced Quantum LDPC Codes* <br>
 **S. J. S. Tan**, L. Stambler.<br>
 arXiv (2024). [<a href="https://arxiv.org/abs/2409.02193" target="_blank">pdf</a>][<a href="https://youtu.be/h3ahgjAhyOI" target="_blank">Invited talk at UMD CCSP Seminar</a>]
@@ -47,7 +51,7 @@ S. Dontha<sup>$\dagger$</sup>, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first au
 I have previously worked on computational biology with <a href="https://smathieson.sites.haverford.edu/" target="_blank">Sara Mathieson</a>, and representation-theoretic probability theory with <a href="https://www.haverford.edu/users/emilicevic" target="_blank">Elizabeth Milićević</a>.
 
 
-{:start="5"}
+{:start="6"}
 4. *Identity-by-descent (IBD) segment outlier detection in endogamous populations using pedigree cohorts* <br>
 **S. J. S. Tan**, H. T. Dang, S. Keim, M. Bućan, S. Mathieson. <br>
 bioRxiv (2024). [<a href="https://www.biorxiv.org/content/10.1101/2024.08.07.607051v1.abstract" target="_blank">pdf</a>]
