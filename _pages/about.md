@@ -26,11 +26,11 @@ Email: stan97 (at) umd (dot) edu
 
 1. *Adaptive Syndrome Extraction* <br>
 N. Berthusen, **S. J. S. Tan**, E. Huang, D. Gottesman.<br>
-arXiv (2025). [<a href="https://arxiv.org/abs/2502.14835" target="_blank">pdf</a>], [<a href="https://youtu.be/iwDiB81ZcBU" target="_blank">Noah's talk at APQEC</a>]
+*Contributed talk at TQC (2025).* [<a href="https://arxiv.org/abs/2502.14835" target="_blank">pdf</a>], [<a href="https://youtu.be/iwDiB81ZcBU" target="_blank">Noah's talk at APQEC</a>]
 
 1. *Effective Distance of Higher Dimensional HGPs and Weight-Reduced Quantum LDPC Codes* <br>
 **S. J. S. Tan**, L. Stambler.<br>
-arXiv (2024). [<a href="https://arxiv.org/abs/2409.02193" target="_blank">pdf</a>], [<a href="https://youtu.be/h3ahgjAhyOI" target="_blank">Invited talk at UMD CCSP Seminar</a>]
+Contributed poster at QIP (2025). [<a href="https://arxiv.org/abs/2409.02193" target="_blank">pdf</a>], [<a href="https://youtu.be/h3ahgjAhyOI" target="_blank">Invited talk at UMD CCSP Seminar</a>]
 
 1. *Resilience of the surface code to error bursts* <br>
 **S. J. S. Tan**, C. A. Pattison, M. McEwen, J. Preskill.<br>
