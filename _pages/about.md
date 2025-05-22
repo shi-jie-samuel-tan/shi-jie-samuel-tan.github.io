@@ -38,7 +38,7 @@ N. Berthusen, **S. J. S. Tan**, E. Huang, D. Gottesman.<br>
 
 1. *Optimal Coherent Quantum Phase Estimation via Tapering* <br>
 D. Patel<sup>$\dagger$</sup>, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author), Y. Subaşı, A. T. Sornborger.<br>
-*Contributed talk at APS March Meeting (2024).* [<a href="https://arxiv.org/abs/2403.18927" target="_blank">pdf</a>]
+*Contributed poster at TQC (2024).* [<a href="https://arxiv.org/abs/2403.18927" target="_blank">pdf</a>]
 
 1. *Approximating output probabilities of shallow quantum circuits which are geometrically-local in any fixed dimension* <br>
 S. Dontha<sup>$\dagger$</sup>, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author), S. Smith, S. Choi, M. Coudron.<br>
