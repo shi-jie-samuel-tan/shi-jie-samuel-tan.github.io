@@ -24,6 +24,10 @@ Email: stan97 (at) umd (dot) edu
 
 ## Publications:
 
+1. *Automorphism gadgets in homological product codes* <br>
+**(alphabetical order)** N. Berthusen, M.J. Gullans, Y. Hong, M. Mudassar, **S. J. S. Tan**. <br>
+*Contributed poster at QEC (2025).* [To appear]
+
 1. *Adaptive Syndrome Extraction* <br>
 N. Berthusen, **S. J. S. Tan**, E. Huang, D. Gottesman.<br>
 *Contributed talk at TQC (2025) and poster at QEC (2025).* [<a href="https://arxiv.org/abs/2502.14835" target="_blank">pdf</a>], [<a href="https://youtu.be/iwDiB81ZcBU" target="_blank">Noah's talk at APQEC</a>]
