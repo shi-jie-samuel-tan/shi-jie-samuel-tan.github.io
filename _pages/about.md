@@ -30,23 +30,23 @@ Email: stan97 (at) umd (dot) edu
 
 1. *Adaptive Syndrome Extraction* <br>
 N. Berthusen, **S. J. S. Tan**, E. Huang, D. Gottesman.<br>
-*Contributed talk at TQC (2025) and poster at QEC (2025).* [<a href="https://arxiv.org/abs/2502.14835" target="_blank">pdf</a>], [<a href="https://youtu.be/iwDiB81ZcBU" target="_blank">Noah's talk at APQEC</a>]
+[<a href="https://doi.org/10.1103/ps3r-wf84" target="_blank">PRX Quantum (2025)</a>], *Contributed talk at TQC (2025) and poster at QEC (2025).* [<a href="https://arxiv.org/abs/2502.14835" target="_blank">PDF</a>], [<a href="https://youtu.be/iwDiB81ZcBU" target="_blank">Noah's talk at APQEC</a>]
 
 1. *Effective Distance of Higher Dimensional HGPs and Weight-Reduced Quantum LDPC Codes* <br>
 **S. J. S. Tan**, L. Stambler.<br>
-*Contributed poster at QIP (2025).* [<a href="https://arxiv.org/abs/2409.02193" target="_blank">pdf</a>], [<a href="https://youtu.be/h3ahgjAhyOI" target="_blank">Invited talk at UMD CCSP Seminar</a>]
+*Contributed poster at QIP (2025).* [<a href="https://arxiv.org/abs/2409.02193" target="_blank">PDF</a>], [<a href="https://youtu.be/h3ahgjAhyOI" target="_blank">Invited talk at UMD CCSP Seminar</a>]
 
 1. *Resilience of the surface code to error bursts* <br>
 **S. J. S. Tan**, C. A. Pattison, M. McEwen, J. Preskill.<br>
-*Contributed poster at QEC (2023).* [<a href="https://arxiv.org/abs/2406.18897" target="_blank">pdf</a>]
+*Contributed poster at QEC (2023).* [<a href="https://arxiv.org/abs/2406.18897" target="_blank">PDF</a>]
 
 1. *Optimal Coherent Quantum Phase Estimation via Tapering* <br>
 D. Patel<sup>$\dagger$</sup>, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author), Y. Subaşı, A. T. Sornborger.<br>
-*Contributed poster at TQC (2024).* [<a href="https://arxiv.org/abs/2403.18927" target="_blank">pdf</a>]
+*Contributed poster at TQC (2024).* [<a href="https://arxiv.org/abs/2403.18927" target="_blank">PDF</a>]
 
 1. *Approximating output probabilities of shallow quantum circuits which are geometrically-local in any fixed dimension* <br>
 S. Dontha<sup>$\dagger$</sup>, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author), S. Smith, S. Choi, M. Coudron.<br>
-*Contributed talk at TQC (2022).* [<a href="https://arxiv.org/abs/2202.08349" target="_blank">pdf</a>]
+*Contributed talk at TQC (2022).* [<a href="https://arxiv.org/abs/2202.08349" target="_blank">PDF</a>]
 
 * * *
 
@@ -58,11 +58,11 @@ I have previously worked on computational biology with <a href="https://smathies
 {:start="7"}
 4. *Identity-by-descent (IBD) segment outlier detection in endogamous populations using pedigree cohorts* <br>
 **S. J. S. Tan**, H. T. Dang, S. Keim, M. Bućan, S. Mathieson. <br>
-bioRxiv (2024). [<a href="https://www.biorxiv.org/content/10.1101/2024.08.07.607051v1.abstract" target="_blank">pdf</a>]
+bioRxiv (2024). [<a href="https://www.biorxiv.org/content/10.1101/2024.08.07.607051v1.abstract" target="_blank">PDF</a>]
 
 3. *Random Walks on the Generalized Symmetric Group: Cutoff for the One-sided Transposition Shuffle* <br>
 **(alphabetical order)** Y. Deng, **S. J. S. Tan**. <br>
-arXiv (2022). [<a href="https://arxiv.org/abs/2211.10462" target="_blank">pdf</a>]
+arXiv (2022). [<a href="https://arxiv.org/abs/2211.10462" target="_blank">PDF</a>]
 
 2. *Comparison of cohort-based identical-by-descent (IBD) segment finding methods for endogamous populations* <br>
 H. T. Dang<sup>$\dagger$</sup>, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author), S. Mathieson. <br>
