@@ -26,7 +26,7 @@ Email: stan97 (at) umd (dot) edu
 
 1. *Automorphism gadgets in homological product codes* <br>
 **(alphabetical order)** N. Berthusen, M.J. Gullans, Y. Hong, M. Mudassar, **S. J. S. Tan**. <br>
-*Contributed poster at QEC (2025).* [<a href="https://arxiv.org/abs/2508.04794" target="_blank">PDF</a>]
+*Contributed poster at QEC (2025).* [<a href="https://arxiv.org/abs/2508.04794" target="_blank">PDF</a>], [<a href="https://youtu.be/oGDQCSKTRhc?feature=shared" target="_blank">Yifan's talk at KITP</a>]
 
 1. *Adaptive Syndrome Extraction* <br>
 N. Berthusen, **S. J. S. Tan**, E. Huang, D. Gottesman.<br>
@@ -34,7 +34,7 @@ N. Berthusen, **S. J. S. Tan**, E. Huang, D. Gottesman.<br>
 
 1. *Effective Distance of Higher Dimensional HGPs and Weight-Reduced Quantum LDPC Codes* <br>
 **S. J. S. Tan**, L. Stambler.<br>
-*Contributed poster at QIP (2025).* [<a href="https://arxiv.org/abs/2409.02193" target="_blank">PDF</a>], [<a href="https://youtu.be/h3ahgjAhyOI" target="_blank">Invited talk at UMD CCSP Seminar</a>]
+*Contributed poster at QIP (2025).* [<a href="https://arxiv.org/abs/2409.02193" target="_blank">PDF</a>], [<a href="https://youtu.be/h3ahgjAhyOI" target="_blank">Talk at UMD CCSP</a>]
 
 1. *Resilience of the surface code to error bursts* <br>
 **S. J. S. Tan**, C. A. Pattison, M. McEwen, J. Preskill.<br>
