@@ -26,11 +26,11 @@ Email: stan97 (at) umd (dot) edu
 
 1. *Automorphism gadgets in homological product codes* <br>
 **(alphabetical order)** N. Berthusen, M.J. Gullans, Y. Hong, M. Mudassar, **S. J. S. Tan**. <br>
-*Contributed poster at QEC (2025).* [<a href="https://arxiv.org/abs/2508.04794" target="_blank">PDF</a>], [<a href="https://youtu.be/oGDQCSKTRhc?feature=shared" target="_blank">Yifan's talk at KITP</a>]
+*Contributed poster at QEC (2025).* [<a href="https://arxiv.org/abs/2508.04794" target="_blank">PDF</a>], [<a href="https://youtu.be/oGDQCSKTRhc" target="_blank">Yifan's talk at KITP</a>]
 
 1. *Adaptive Syndrome Extraction* <br>
 N. Berthusen, **S. J. S. Tan**, E. Huang, D. Gottesman.<br>
-<a href="https://doi.org/10.1103/ps3r-wf84" target="_blank">PRX Quantum (2025)</a>, *Contributed talk at TQC (2025) and poster at QEC (2025).* [<a href="https://arxiv.org/abs/2502.14835" target="_blank">PDF</a>], [<a href="https://youtu.be/iwDiB81ZcBU" target="_blank">Noah's talk at APQEC</a>]
+<a href="https://doi.org/10.1103/ps3r-wf84" target="_blank">PRX Quantum (2025)</a>, *Contributed talk at TQC (2025) and poster at QEC (2025).* [<a href="https://arxiv.org/abs/2502.14835" target="_blank">PDF</a>], [<a href="https://youtu.be/iwDiB81ZcBU" target="_blank">Noah's talk at APQEC</a>], [<a href="https://youtu.be/s4mJKkr6HO8" target="_blank">Eric's talk at YITP</a>]
 
 1. *Effective Distance of Higher Dimensional HGPs and Weight-Reduced Quantum LDPC Codes* <br>
 **S. J. S. Tan**, L. Stambler.<br>
