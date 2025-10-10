@@ -24,8 +24,12 @@ Email: stan97 (at) umd (dot) edu
 
 ## Publications:
 
+1. *Single-Shot Universality in Quantum LDPC Codes via Code-Switching* <br>
+**S. J. S. Tan**, Y. Hong, T.-C. Lin, M. J. Gullans, M.-H. Hsieh. <br>
+arXiv (2025). [<a href="https://arxiv.org/abs/2510.08552" target="_blank">PDF</a>]
+
 1. *Automorphism gadgets in homological product codes* <br>
-**(alphabetical order)** N. Berthusen, M.J. Gullans, Y. Hong, M. Mudassar, **S. J. S. Tan**. <br>
+**(alphabetical order)** N. Berthusen, M. J. Gullans, Y. Hong, M. Mudassar, **S. J. S. Tan**. <br>
 *Contributed poster at QEC (2025).* [<a href="https://arxiv.org/abs/2508.04794" target="_blank">PDF</a>], [<a href="https://youtu.be/oGDQCSKTRhc" target="_blank">Yifan's talk at KITP</a>]
 
 1. *Adaptive Syndrome Extraction* <br>
@@ -55,7 +59,7 @@ S. Dontha<sup>$\dagger$</sup>, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first au
 I have previously worked on computational biology with <a href="https://smathieson.sites.haverford.edu/" target="_blank">Sara Mathieson</a>, and representation-theoretic probability theory with <a href="https://www.haverford.edu/users/emilicevic" target="_blank">Elizabeth Milićević</a>.
 
 
-{:start="7"}
+{:start="8"}
 4. *Identity-by-descent (IBD) segment outlier detection in endogamous populations using pedigree cohorts* <br>
 **S. J. S. Tan**, H. T. Dang, S. Keim, M. Bućan, S. Mathieson. <br>
 bioRxiv (2024). [<a href="https://www.biorxiv.org/content/10.1101/2024.08.07.607051v1.abstract" target="_blank">PDF</a>]
