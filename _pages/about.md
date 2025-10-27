@@ -46,11 +46,11 @@ N. Berthusen, **S. J. S. Tan**, E. Huang, D. Gottesman.<br>
 
 1. *Optimal Coherent Quantum Phase Estimation via Tapering* <br>
 D. Patel<sup>$\dagger$</sup>, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author), Y. Subaşı, A. T. Sornborger.<br>
-*Contributed poster at TQC (2024).* [<a href="https://arxiv.org/abs/2403.18927" target="_blank">PDF</a>]
+*Contributed poster at TQC (2024) and talk at APS March Meeting (2024).* [<a href="https://arxiv.org/abs/2403.18927" target="_blank">PDF</a>]
 
 1. *Approximating output probabilities of shallow quantum circuits which are geometrically-local in any fixed dimension* <br>
 S. Dontha<sup>$\dagger$</sup>, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author), S. Smith, S. Choi, M. Coudron.<br>
-*Contributed talk at TQC (2022).* [<a href="https://arxiv.org/abs/2202.08349" target="_blank">PDF</a>]
+<a href="https://doi.org/10.4230/LIPIcs.TQC.2022.9" target="_blank">Proceedings of TQC (2022)</a>, *Contributed talk at TQC (2022) and poster at QIP (2022)* [<a href="https://arxiv.org/abs/2202.08349" target="_blank">PDF</a>]
 
 * * *
 
@@ -70,8 +70,8 @@ arXiv (2022). [<a href="https://arxiv.org/abs/2211.10462" target="_blank">PDF</a
 
 2. *Comparison of cohort-based identical-by-descent (IBD) segment finding methods for endogamous populations* <br>
 H. T. Dang<sup>$\dagger$</sup>, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author), S. Mathieson. <br>
-*<a href="https://dl.acm.org/doi/abs/10.1145/3535508.3545104" target="_blank">Proceedings of ACM-BCB (2022)</a>*.
+<a href="https://dl.acm.org/doi/abs/10.1145/3535508.3545104" target="_blank">Proceedings of ACM-BCB (2022)</a>.
 
 1. *Ancestral haplotype reconstruction in endogamous populations using identity-by-descent* <br>
 K. Finke, M. Kourakos, G. Brown, H. T. Dang, **S. J. S. Tan**, Y. B. Simons, S. Ramdas, A. A. Schäffer, R. L. Kember, M. Bućan, S. Mathieson. <br>
-*<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008638" target="_blank">PLOS Computational Biology (2021)</a>*.
+<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008638" target="_blank">PLOS Computational Biology (2021)</a>.
