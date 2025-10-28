@@ -38,7 +38,7 @@ N. Berthusen, **S. J. S. Tan**, E. Huang, D. Gottesman.<br>
 
 1. *Effective Distance of Higher Dimensional HGPs and Weight-Reduced Quantum LDPC Codes* <br>
 **S. J. S. Tan**, L. Stambler.<br>
-*Contributed poster at QIP (2025).* [<a href="https://arxiv.org/abs/2409.02193" target="_blank">PDF</a>], [<a href="https://youtu.be/h3ahgjAhyOI" target="_blank">Talk at UMD CCSP</a>]
+<a href="https://doi.org/10.22331/q-2025-10-28-1897" target="_blank">Quantum (2025)</a>, *Contributed poster at QIP (2025).* [<a href="https://arxiv.org/abs/2409.02193" target="_blank">PDF</a>], [<a href="https://youtu.be/h3ahgjAhyOI" target="_blank">Talk at UMD CCSP</a>]
 
 1. *Resilience of the surface code to error bursts* <br>
 **S. J. S. Tan**, C. A. Pattison, M. McEwen, J. Preskill.<br>
