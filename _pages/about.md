@@ -26,7 +26,7 @@ Email: stan97 (at) umd (dot) edu
 
 1. *Single-Shot Universality in Quantum LDPC Codes via Code-Switching* <br>
 **S. J. S. Tan**, Y. Hong, T.-C. Lin, M. J. Gullans, M.-H. Hsieh. <br>
-arXiv (2025). [<a href="https://arxiv.org/abs/2510.08552" target="_blank">PDF</a>]
+*Contributed plenary talk at QIP (2026).* [<a href="https://arxiv.org/abs/2510.08552" target="_blank">PDF</a>]
 
 1. *Automorphism gadgets in homological product codes* <br>
 **(alphabetical order)** N. Berthusen, M. J. Gullans, Y. Hong, M. Mudassar, **S. J. S. Tan**. <br>
