@@ -34,7 +34,7 @@ Email: stan97 (at) umd (dot) edu
 
 1. *Adaptive Syndrome Extraction* <br>
 N. Berthusen, **S. J. S. Tan**, E. Huang, D. Gottesman.<br>
-<a href="https://doi.org/10.1103/ps3r-wf84" target="_blank">PRX Quantum (2025)</a>, *Contributed talk at TQC (2025) and poster at QEC (2025).* [<a href="https://arxiv.org/abs/2502.14835" target="_blank">PDF</a>], [<a href="https://youtu.be/-mrgQbF-B3c?si=oLAnZ5LbWthlXqq7"_target="_blank">]Talk at TQC</a>], [<a href="https://youtu.be/iwDiB81ZcBU" target="_blank">Noah's talk at APQEC</a>], [<a href="https://youtu.be/s4mJKkr6HO8" target="_blank">Eric's talk at YITP</a>]
+<a href="https://doi.org/10.1103/ps3r-wf84" target="_blank">PRX Quantum (2025)</a>, *Contributed talk at TQC (2025) and poster at QEC (2025).* [<a href="https://arxiv.org/abs/2502.14835" target="_blank">PDF</a>], [<a href="https://youtu.be/-mrgQbF-B3c?si=oLAnZ5LbWthlXqq7" target="_blank">Talk at TQC</a>], [<a href="https://youtu.be/iwDiB81ZcBU" target="_blank">Noah's talk at APQEC</a>], [<a href="https://youtu.be/s4mJKkr6HO8" target="_blank">Eric's talk at YITP</a>]
 
 1. *Effective Distance of Higher Dimensional HGPs and Weight-Reduced Quantum LDPC Codes* <br>
 **S. J. S. Tan**, L. Stambler.<br>
