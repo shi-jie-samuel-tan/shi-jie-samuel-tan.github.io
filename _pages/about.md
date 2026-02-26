@@ -44,7 +44,7 @@ N. Berthusen, **S. J. S. Tan**, E. Huang, D. Gottesman.<br>
 
 1. *Resilience of the surface code to error bursts* <br>
 **S. J. S. Tan**, C. A. Pattison, M. McEwen, J. Preskill.<br>
-*Contributed poster at QEC (2023).* [<a href="https://arxiv.org/abs/2406.18897" target="_blank">PDF</a>]
+<a href="https://journals.aps.org/pra/abstract/10.1103/vwtl-hwfx" target="_blank">Physical Review A (2026)</a>, *Contributed poster at QEC (2023).* [<a href="https://arxiv.org/abs/2406.18897" target="_blank">PDF</a>]
 
 1. *Optimal Coherent Quantum Phase Estimation via Tapering* <br>
 D. Patel<sup>$\dagger$</sup>, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first author), Y. Subaşı, A. T. Sornborger.<br>
