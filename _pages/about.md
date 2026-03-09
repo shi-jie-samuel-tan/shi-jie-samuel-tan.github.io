@@ -25,6 +25,14 @@ Email: stan97 (at) umd (dot) edu
 
 ## Publications:
 
+1. *Generalized matching decoders for 2D topological translationally-invariant codes* <br>
+**S. J. S. Tan**<sup>$\dagger$</sup>, E. Gill<sup>$\dagger$</sup>, E. Huang<sup>$\dagger$</sup>, P. Liu, C. Zhao, H. Dehghani, A. Kubica, H. Zhou, A. Dua. <br>
+arXiv (2026). [<a href="https://arxiv.org/abs/2603.05402" target="_blank">PDF</a>]
+
+1. *Achieving Optimal-Distance Atom-Loss Correction via Pauli Envelope* <br>
+P. Liu, **S. J. S. Tan**, E. Huang, U. A. Acar, H. Zhou, C. Zhao. <br>
+arXiv (2026). [<a href="https://arxiv.org/abs/2603.04156" target="_blank">PDF</a>]
+
 1. *Single-Shot Universality in Quantum LDPC Codes via Code-Switching* <br>
 **S. J. S. Tan**, Y. Hong, T.-C. Lin, M. J. Gullans, M.-H. Hsieh. <br>
 *Contributed plenary talk at QIP (2026).* [<a href="https://arxiv.org/abs/2510.08552" target="_blank">PDF</a>]
