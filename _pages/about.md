@@ -69,7 +69,7 @@ S. Dontha<sup>$\dagger$</sup>, **S. J. S. Tan**<sup>$\dagger$</sup> (co-first au
 I have previously worked on computational biology with <a href="https://smathieson.sites.haverford.edu/" target="_blank">Sara Mathieson</a>, and representation-theoretic probability theory with <a href="https://www.haverford.edu/users/emilicevic" target="_blank">Elizabeth Milićević</a>.
 
 
-{:start="8"}
+{:start="10"}
 4. *Identity-by-descent (IBD) segment outlier detection in endogamous populations using pedigree cohorts* <br>
 **S. J. S. Tan**, H. T. Dang, S. Keim, M. Bućan, S. Mathieson. <br>
 bioRxiv (2024). [<a href="https://www.biorxiv.org/content/10.1101/2024.08.07.607051v1.abstract" target="_blank">PDF</a>]
