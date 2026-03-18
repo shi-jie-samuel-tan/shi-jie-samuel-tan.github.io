@@ -23,7 +23,8 @@ Email: stan97 (at) umd (dot) edu
 * In Summer 2021, I was an undergraduate research assistant in <a href="https://www.cs.umd.edu/projects/reucaar/" target="_blank">University of Maryland's Research Experience for Undergraduates (REU) Combinatorics, Algorithms, and AI for Real Problems (CAAR)</a> under the mentorship of <a href="https://matthewcoudron.github.io/" target="_blank">Matthew Coudron</a> and <a href="https://www.alagic.org/" target="_blank">Gorjan Alagic</a>.
 
 
-## Publications (<sup>$\dagger$</sup> denotes equal contribution):
+## Publications:
+<sup>$\dagger$</sup> denotes equal contribution
 
 1. *Generalized matching decoders for 2D topological translationally-invariant codes* <br>
 **S. J. S. Tan**<sup>$\dagger$</sup>, I. Gill<sup>$\dagger$</sup>, E. Huang<sup>$\dagger$</sup>, P. Liu, C. Zhao, H. Dehghani, A. Kubica, H. Zhou, A. Dua. <br>
