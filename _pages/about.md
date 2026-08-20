@@ -16,7 +16,8 @@ My ultimate goal is to build fault-tolerant quantum computers that can withstand
 Email: stan97 (at) umd (dot) edu
 
 ## Related Experiences:
-* In Summer 2026, I will be a quantum error correction theory intern at <a href="https://www.ibm.com/quantum" target="_blank">IBM Quantum</a> under the mentorship of <a href="https://scholar.google.com/citations?user=49-A-XQAAAAJ&hl=en" target="_blank">Guanyu Zhu</a>.
+* In Fall 2026, I will be a student researcher at <a href="https://quantumai.google/" target="_blank">Google Quantum AI</a> under the mentorship of <a href="https://noahshutty.com/" target="_blank">Noah Shutty</a> and <a href="https://mgnewman727.wixsite.com/michaelnewman" target="_blank">Michael Newman</a>.
+* In Summer 2026, I was be a quantum error correction theory intern at <a href="https://www.ibm.com/quantum" target="_blank">IBM Quantum</a> under the mentorship of <a href="https://scholar.google.com/citations?user=49-A-XQAAAAJ&hl=en" target="_blank">Guanyu Zhu</a>.
 * In Summer and Fall 2025, I was a quantum error correction research intern at <a href="https://www.quera.com/" target="_blank">QuEra Computing Inc.</a> under the mentorship of <a href="https://scholar.google.com/citations?hl=en&user=XLHpQy8AAAAJ" target="_blank">Hengyun (Harry) Zhou</a> and <a href="https://scholar.google.com/citations?user=w4ASA38AAAAJ&hl=en" target="_blank">Arpit Dua</a>.
 * In Summer 2023, I was a research fellow at the <a href="https://www.lanl.gov/projects/national-security-education-center/information-science-technology/summer-schools/quantumcomputing/index.php" target="_blank">Los Alamos National Laboratory (LANL) Quantum Computing Summer School (QCSS)</a> under the mentorship of <a href="https://scholar.google.com/citations?user=VUHwzlwAAAAJ&hl=en" target="_blank">Yiğit Subaşı</a> and <a href="https://www.linkedin.com/in/sam-slezak-61253024b" target="_blank">Sam Slezak</a>.
 * In Summer 2022, I was an undergraduate research fellow in the <a href="https://sfp.caltech.edu/undergraduate-research/programs/surf" target="_blank">Caltech's Summer Undergraduate Research Fellowship program</a> under the mentorship of <a href="https://www.its.caltech.edu/~preskill/" target="_blank">John Preskill</a> and <a href="https://scholar.google.com/citations?user=4neYf8oAAAAJ&hl=en" target="_blank">Chris Pattison</a>.
@@ -28,15 +29,15 @@ Email: stan97 (at) umd (dot) edu
 
 1. *Generalized matching decoders for 2D topological translationally-invariant codes* <br>
 **S. J. S. Tan**<sup>$\dagger$</sup>, I. Gill<sup>$\dagger$</sup>, E. Huang<sup>$\dagger$</sup>, P. Liu, C. Zhao, H. Dehghani, A. Kubica, H. Zhou, A. Dua. <br>
-arXiv (2026). [<a href="https://arxiv.org/abs/2603.05402" target="_blank">PDF</a>]
+*Contributed poster at QEC (2026).* [<a href="https://arxiv.org/abs/2603.05402" target="_blank">PDF</a>]
 
 1. *Achieving Optimal-Distance Atom-Loss Correction via Pauli Envelope* <br>
 P. Liu, **S. J. S. Tan**, E. Huang, U. A. Acar, H. Zhou, C. Zhao. <br>
-arXiv (2026). [<a href="https://arxiv.org/abs/2603.04156" target="_blank">PDF</a>]
+*Contributed poster at QEC (2026).* [<a href="https://arxiv.org/abs/2603.04156" target="_blank">PDF</a>]
 
 1. *Single-Shot Universality in Quantum LDPC Codes via Code-Switching* <br>
 **S. J. S. Tan**<sup>$\dagger$</sup>, Y. Hong<sup>$\dagger$</sup>, T.-C. Lin<sup>$\dagger$</sup>, M. J. Gullans, M.-H. Hsieh. <br>
-*Contributed plenary talk at QIP (2026).* [<a href="https://arxiv.org/abs/2510.08552" target="_blank">PDF</a>]
+*Contributed short plenary talk at QIP (2026).* [<a href="https://arxiv.org/abs/2510.08552" target="_blank">PDF</a>]
 
 1. *Automorphism gadgets in homological product codes* <br>
 **(alphabetical order)** N. Berthusen, M. J. Gullans, Y. Hong, M. Mudassar, **S. J. S. Tan**. <br>
