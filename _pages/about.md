@@ -27,6 +27,11 @@ Email: stan97 (at) umd (dot) edu
 ## Publications:
 <sup>$\dagger$</sup> denotes equal contribution
 
+1. *Achieving the limits of automorphism gates* <br>
+J. M. Koh, S. Majidy, A. Chakraborty, A. Gong, **S. J. S. Tan**, N. Y. Yao.
+<br>
+arXiv (2026). [<a href="https://arxiv.org/abs/2609.19250" target="_blank">PDF</a>]
+
 1. *Generalized matching decoders for 2D topological translationally-invariant codes* <br>
 **S. J. S. Tan**<sup>$\dagger$</sup>, I. Gill<sup>$\dagger$</sup>, E. Huang<sup>$\dagger$</sup>, P. Liu, C. Zhao, H. Dehghani, A. Kubica, H. Zhou, A. Dua. <br>
 *Contributed poster at QEC (2026).* [<a href="https://arxiv.org/abs/2603.05402" target="_blank">PDF</a>]
