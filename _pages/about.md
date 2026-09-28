@@ -27,9 +27,12 @@ Email: stan97 (at) umd (dot) edu
 ## Publications:
 <sup>$\dagger$</sup> denotes equal contribution
 
+1. *Sipser-Spielman meets Dijkgraaf-Witten: non-Abelian qLDPC codes via twisted sheaf gauge theory and almost-constant-overhead magic state fountain* <br>
+G. Zhu, **S. J. S. Tan**, R. Kobayashi, P.-S. Hsin. <br>
+arXiv (2026). [<a href="https://arxiv.org/abs/2609.31541" target="_blank">PDF</a>]
+
 1. *Achieving the limits of automorphism gates* <br>
-J. M. Koh, S. Majidy, A. Chakraborty, A. Gong, **S. J. S. Tan**, N. Y. Yao.
-<br>
+J. M. Koh, S. Majidy, A. Chakraborty, A. Gong, **S. J. S. Tan**, N. Y. Yao. <br>
 arXiv (2026). [<a href="https://arxiv.org/abs/2609.19250" target="_blank">PDF</a>]
 
 1. *Generalized matching decoders for 2D topological translationally-invariant codes* <br>
@@ -76,7 +79,7 @@ S. Dontha<sup>$\dagger$</sup>, **S. J. S. Tan**<sup>$\dagger$</sup>, S. Smith, S
 I have previously worked on computational biology with <a href="https://smathieson.sites.haverford.edu/" target="_blank">Sara Mathieson</a>, and representation-theoretic probability theory with <a href="https://www.haverford.edu/users/emilicevic" target="_blank">Elizabeth Milićević</a>.
 
 
-{:start="11"}
+{:start="12"}
 4. *Identity-by-descent (IBD) segment outlier detection in endogamous populations using pedigree cohorts* <br>
 **S. J. S. Tan**, H. T. Dang, S. Keim, M. Bućan, S. Mathieson. <br>
 bioRxiv (2024). [<a href="https://www.biorxiv.org/content/10.1101/2024.08.07.607051v1.abstract" target="_blank">PDF</a>]
