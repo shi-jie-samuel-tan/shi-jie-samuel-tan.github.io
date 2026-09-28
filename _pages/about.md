@@ -29,7 +29,8 @@ Email: stan97 (at) umd (dot) edu
 
 1. *Sipser-Spielman meets Dijkgraaf-Witten: non-Abelian qLDPC codes via twisted sheaf gauge theory and almost-constant-overhead magic state fountain* <br>
 G. Zhu, **S. J. S. Tan**, R. Kobayashi, P.-S. Hsin. <br>
-arXiv (2026). [<a href="https://arxiv.org/abs/2609.31541" target="_blank">PDF</a>]
+arXiv (2026). [<a href="https://arxiv.org/abs/2609.31541" target="_blank">PDF</a>], [<a href="https://youtu.be/-8_wccQ6qP8?si=TyrpaY7t4i4k14Bj" target="_blank">Guanyu's talk at KITP</a>]
+
 
 1. *Achieving the limits of automorphism gates* <br>
 J. M. Koh, S. Majidy, A. Chakraborty, A. Gong, **S. J. S. Tan**, N. Y. Yao. <br>
