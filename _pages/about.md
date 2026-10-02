@@ -27,6 +27,10 @@ Email: stan97 (at) umd (dot) edu
 ## Publications:
 <sup>$\dagger$</sup> denotes equal contribution
 
+1. *Polynomial-time additive-error estimation of output probabilities for shallow quantum circuits* <br>
+**(alphabetical order)** M. Coudron, M. J. Gullans, J. Nelson, J. Rajakumar, **S. J. S. Tan**. <br>
+arXiv (2026). [<a href="https://arxiv.org/abs/2610.02146" target="_blank">PDF</a>]
+
 1. *Sipser-Spielman meets Dijkgraaf-Witten: non-Abelian qLDPC codes via twisted sheaf gauge theory and almost-constant-overhead magic state fountain* <br>
 G. Zhu, **S. J. S. Tan**, R. Kobayashi, P.-S. Hsin. <br>
 arXiv (2026). [<a href="https://arxiv.org/abs/2609.31541" target="_blank">PDF</a>], [<a href="https://youtu.be/-8_wccQ6qP8?si=TyrpaY7t4i4k14Bj" target="_blank">Guanyu's talk at KITP</a>]
