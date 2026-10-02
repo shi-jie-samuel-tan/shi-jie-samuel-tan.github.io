@@ -35,7 +35,6 @@ arXiv (2026). [<a href="https://arxiv.org/abs/2610.02146" target="_blank">PDF</a
 G. Zhu, **S. J. S. Tan**, R. Kobayashi, P.-S. Hsin. <br>
 arXiv (2026). [<a href="https://arxiv.org/abs/2609.31541" target="_blank">PDF</a>], [<a href="https://youtu.be/-8_wccQ6qP8?si=TyrpaY7t4i4k14Bj" target="_blank">Guanyu's talk at KITP</a>]
 
-
 1. *Achieving the limits of automorphism gates* <br>
 J. M. Koh, S. Majidy, A. Chakraborty, A. Gong, **S. J. S. Tan**, N. Y. Yao. <br>
 arXiv (2026). [<a href="https://arxiv.org/abs/2609.19250" target="_blank">PDF</a>]
@@ -84,7 +83,7 @@ S. Dontha<sup>$\dagger$</sup>, **S. J. S. Tan**<sup>$\dagger$</sup>, S. Smith, S
 I have previously worked on computational biology with <a href="https://smathieson.sites.haverford.edu/" target="_blank">Sara Mathieson</a>, and representation-theoretic probability theory with <a href="https://www.haverford.edu/users/emilicevic" target="_blank">Elizabeth Milićević</a>.
 
 
-{:start="12"}
+{:start="13"}
 4. *Identity-by-descent (IBD) segment outlier detection in endogamous populations using pedigree cohorts* <br>
 **S. J. S. Tan**, H. T. Dang, S. Keim, M. Bućan, S. Mathieson. <br>
 bioRxiv (2024). [<a href="https://www.biorxiv.org/content/10.1101/2024.08.07.607051v1.abstract" target="_blank">PDF</a>]
