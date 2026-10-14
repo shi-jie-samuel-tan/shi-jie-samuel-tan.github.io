@@ -36,14 +36,14 @@ G. Zhu, **S. J. S. Tan**, R. Kobayashi, P.-S. Hsin. <br>
 arXiv (2026). [<a href="https://arxiv.org/abs/2609.31541" target="_blank">PDF</a>], [<a href="https://youtu.be/-8_wccQ6qP8?si=TyrpaY7t4i4k14Bj" target="_blank">Guanyu's talk at KITP</a>]
 
 1. *Achieving the limits of automorphism gates* <br>
-J. M. Koh, S. Majidy, A. Chakraborty, A. Gong, **S. J. S. Tan**, N. Y. Yao. <br>
+J. M. Koh<sup>$\dagger$</sup>, S. Majidy<sup>$\dagger$</sup>, A. Chakraborty, A. Gong, **S. J. S. Tan**, N. Y. Yao. <br>
 arXiv (2026). [<a href="https://arxiv.org/abs/2609.19250" target="_blank">PDF</a>]
 
 1. *Generalized matching decoders for 2D topological translationally-invariant codes* <br>
 **S. J. S. Tan**<sup>$\dagger$</sup>, I. Gill<sup>$\dagger$</sup>, E. Huang<sup>$\dagger$</sup>, P. Liu, C. Zhao, H. Dehghani, A. Kubica, H. Zhou, A. Dua. <br>
 *Contributed poster at QEC (2026).* [<a href="https://arxiv.org/abs/2603.05402" target="_blank">PDF</a>]
 
-1. *Achieving Optimal-Distance Atom-Loss Correction via Pauli Envelope* <br>
+1. *Low-Overhead Surface Code with Delayed Atom-Loss Detection via Pauli Envelope* <br>
 P. Liu, **S. J. S. Tan**, E. Huang, U. A. Acar, H. Zhou, C. Zhao. <br>
 *Contributed poster at QEC (2026).* [<a href="https://arxiv.org/abs/2603.04156" target="_blank">PDF</a>]
 
@@ -52,7 +52,7 @@ P. Liu, **S. J. S. Tan**, E. Huang, U. A. Acar, H. Zhou, C. Zhao. <br>
 *Contributed short plenary talk at QIP (2026) and poster at QEC (2026).* [<a href="https://arxiv.org/abs/2510.08552" target="_blank">PDF</a>]
 
 1. *Automorphism gadgets in homological product codes* <br>
-**(alphabetical order)** N. Berthusen, M. J. Gullans, Y. Hong, M. Mudassar, **S. J. S. Tan**. <br>
+Y. Hong<sup>$\dagger$</sup>, **S. J. S. Tan**<sup>$\dagger$</sup>, M. Mudassar, N. Berthusen, M. J. Gullans. <br>
 *Contributed poster at QEC (2025).* [<a href="https://arxiv.org/abs/2508.04794" target="_blank">PDF</a>], [<a href="https://youtu.be/oGDQCSKTRhc" target="_blank">Yifan's talk at KITP</a>]
 
 1. *Adaptive Syndrome Extraction* <br>
