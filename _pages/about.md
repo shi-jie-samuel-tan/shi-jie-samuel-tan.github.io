@@ -49,7 +49,8 @@ P. Liu, **S. J. S. Tan**, E. Huang, U. A. Acar, H. Zhou, C. Zhao. <br>
 
 1. *Single-Shot Universality in Quantum LDPC Codes via Code-Switching* <br>
 **S. J. S. Tan**<sup>$\dagger$</sup>, Y. Hong<sup>$\dagger$</sup>, T.-C. Lin<sup>$\dagger$</sup>, M. J. Gullans, M.-H. Hsieh. <br>
-*Contributed short plenary talk at QIP (2026) and poster at QEC (2026).* [<a href="https://arxiv.org/abs/2510.08552" target="_blank">PDF</a>]
+*Contributed short plenary talk at QIP (2026) and poster at QEC (2026).* <br>
+[<a href="https://arxiv.org/abs/2510.08552" target="_blank">PDF</a>], [<a href="https://youtu.be/Wz7lnGEsbxo?si=WEu_zcTps7B9mu0A" target="_blank">Talk at QIP</a>]
 
 1. *Automorphism gadgets in homological product codes* <br>
 Y. Hong<sup>$\dagger$</sup>, **S. J. S. Tan**<sup>$\dagger$</sup>, M. Mudassar, N. Berthusen, M. J. Gullans. <br>
