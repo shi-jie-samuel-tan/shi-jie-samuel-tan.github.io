@@ -27,6 +27,10 @@ Email: stan97 (at) umd (dot) edu
 ## Publications:
 <sup>$\dagger$</sup> denotes equal contribution
 
+1. *Addressable transversal CCZ gates on almost good quantum LDPC codes and nearly optimal magic state protocols* <br>
+**(alphabetical order)** **S. J. S. Tan**, G. Zhu. <br>
+arXiv (2026). [<a href="https://arxiv.org/abs/2611.23762" target="_blank">PDF</a>]
+
 1. *Polynomial-time additive-error estimation of output probabilities for shallow quantum circuits* <br>
 **(alphabetical order)** M. Coudron, M. J. Gullans, J. Nelson, J. Rajakumar, **S. J. S. Tan**. <br>
 arXiv (2026). [<a href="https://arxiv.org/abs/2610.02146" target="_blank">PDF</a>]
