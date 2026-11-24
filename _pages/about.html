@@ -1,0 +1,62 @@
+---
+layout: research
+permalink: /
+redirect_from:
+  - /about/
+  - /about.html
+---
+<section class="intro" id="about" aria-labelledby="intro-title">
+  <div class="intro-copy">
+    <p class="eyebrow">University of Maryland</p>
+    <h1 id="intro-title">Shi Jie<br>Samuel Tan</h1>
+    <p class="intro-role">Fourth-year Computer Science PhD candidate</p>
+    <p>I go by Sam Tan. I work on <strong>quantum error correction</strong> and <strong>fault tolerance</strong> with <a href="https://www.cs.umd.edu/~dgottesm/">Daniel Gottesman</a> and <a href="https://quics.umd.edu/people/michael-gullans">Michael Gullans</a>. I graduated magna cum laude from Haverford College in 2023 with high honors in Computer Science and Physics.</p>
+    <ul class="intro-links" aria-label="Academic links">
+      <li><a class="button" href="#selected-papers">Selected papers</a></li>
+      <li><a class="button button-primary" href="mailto:{{ site.research_email }}">Email</a></li>
+      <li><a class="button" href="{{ site.author.googlescholar | escape }}">Google Scholar</a></li>
+      <li><a class="button" href="https://github.com/{{ site.author.github }}">GitHub</a></li>
+    </ul>
+  </div>
+  <div class="portrait-frame">
+    <div class="portrait-crop">
+      <img src="{{ '/images/' | append: site.author.avatar | relative_url }}" width="2400" height="1600" alt="Shi Jie Samuel Tan overlooking hills covered in autumn foliage" fetchpriority="high">
+    </div>
+  </div>
+</section>
+
+<section class="section updates" id="updates" aria-labelledby="updates-title">
+  <h2 id="updates-title">Updates</h2>
+  <div class="updates-scroll" role="region" aria-labelledby="updates-title" tabindex="0">
+    {% include research-updates.html entries=site.data.research_updates %}
+  </div>
+</section>
+
+<section class="section" id="research" aria-labelledby="research-title">
+  <h2 id="research-title">Research</h2>
+  <p class="section-intro">I use tools from quantum information theory, homological algebra, and graph theory to build quantum error-correcting codes and fault-tolerant protocols. I also work on quantum algorithms and quantum metrology. My goal is to help build quantum computers that can withstand decoherence and tackle problems beyond the reach of classical computers.</p>
+  <section class="selected-papers" id="selected-papers" aria-labelledby="selected-papers-title">
+    <h3 id="selected-papers-title">Selected papers</h3>
+    {% include research-papers.html selected=true %}
+  </section>
+</section>
+
+<section class="section" id="experience" aria-labelledby="experience-title">
+  <h2 id="experience-title">Research experience</h2>
+  <ul class="experience-list">
+    {% for position in site.data.research_experience %}
+      <li>
+        <p class="experience-date">{{ position.period | escape }}</p>
+        <div>
+          <h3><a href="{{ position.url | escape }}">{{ position.organization | escape }}</a></h3>
+          <p class="experience-role">{{ position.role | escape }}</p>
+          <p class="experience-mentors">Mentored by
+            {% for mentor in position.mentors %}
+              {% unless forloop.first %} and {% endunless %}<a href="{{ mentor.url | escape }}">{{ mentor.name | escape }}</a>
+            {% endfor %}
+          </p>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+</section>

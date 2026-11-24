@@ -1,0 +1,59 @@
+- organization: Google Quantum AI
+  url: https://quantumai.google/
+  role: Student researcher
+  period: Fall 2026
+  mentors:
+    - name: Noah Shutty
+      url: https://noahshutty.com/
+    - name: Michael Newman
+      url: https://mgnewman727.wixsite.com/michaelnewman
+
+- organization: IBM Quantum
+  url: https://www.ibm.com/quantum
+  role: Quantum error correction theory intern
+  period: Summer 2026
+  mentors:
+    - name: Guanyu Zhu
+      url: https://scholar.google.com/citations?user=49-A-XQAAAAJ&hl=en
+    - name: Ted Yoder
+      url: https://scholar.google.com/citations?user=OhiKBrsAAAAJ&hl=en
+
+- organization: QuEra Computing Inc.
+  url: https://www.quera.com/
+  role: Quantum error correction research intern
+  period: May through fall 2025
+  mentors:
+    - name: Hengyun (Harry) Zhou
+      url: https://scholar.google.com/citations?hl=en&user=XLHpQy8AAAAJ
+    - name: Arpit Dua
+      url: https://scholar.google.com/citations?user=w4ASA38AAAAJ&hl=en
+
+- organization: Los Alamos National Laboratory (LANL) Quantum Computing Summer School (QCSS)
+  url: https://www.lanl.gov/projects/national-security-education-center/information-science-technology/summer-schools/quantumcomputing/index.php
+  role: Research fellow
+  period: Summer 2023
+  mentors:
+    - name: Yiğit Subaşı
+      url: https://scholar.google.com/citations?user=VUHwzlwAAAAJ&hl=en
+    - name: Sam Slezak
+      url: https://www.linkedin.com/in/sam-slezak-61253024b
+
+- organization: Caltech's Summer Undergraduate Research Fellowship program
+  url: https://sfp.caltech.edu/undergraduate-research/programs/surf
+  role: Undergraduate research fellow
+  period: Summer 2022
+  mentors:
+    - name: John Preskill
+      url: https://www.its.caltech.edu/~preskill/
+    - name: Chris Pattison
+      url: https://scholar.google.com/citations?user=4neYf8oAAAAJ&hl=en
+
+- organization: University of Maryland's Research Experience for Undergraduates (REU) Combinatorics, Algorithms, and AI for Real Problems (CAAR)
+  url: https://www.cs.umd.edu/projects/reucaar/
+  role: Undergraduate research assistant
+  period: Summer 2021
+  mentors:
+    - name: Matthew Coudron
+      url: https://matthewcoudron.github.io/
+    - name: Gorjan Alagic
+      url: https://www.alagic.org/

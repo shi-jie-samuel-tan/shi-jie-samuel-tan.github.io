@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f7f1e7">
+    <title>{% if page.title %}{{ page.title | escape }} · {% endif %}{{ site.title | escape }}</title>
+    <meta name="description" content="{{ page.description | default: site.description | escape }}">
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+    <meta property="og:title" content="{% if page.title %}{{ page.title | escape }} · {% endif %}{{ site.title | escape }}">
+    <meta property="og:description" content="{{ page.description | default: site.description | escape }}">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <meta property="og:image" content="{{ '/images/' | append: site.author.avatar | absolute_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/research.css' | relative_url }}">
+    <script defer src="{{ '/assets/js/research.js' | relative_url }}"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    {% assign home = '/' | relative_url %}
+    {% assign scholar = site.author.googlescholar | escape %}
+    <header class="site-header">
+      <div class="site-width header-inner">
+        <a class="wordmark" href="{{ home }}" aria-label="{{ site.title | escape }} home">ST<span>.</span></a>
+        <nav class="site-nav" aria-label="Main navigation">
+          <a href="{% unless page.url == '/' %}{{ home }}{% endunless %}#about"{% if page.url == '/' %} aria-current="location"{% endif %}>About</a>
+          <a href="{% unless page.url == '/' %}{{ home }}{% endunless %}#updates">Updates</a>
+          <a href="{% unless page.url == '/' %}{{ home }}{% endunless %}#research"{% if page.url == '/publications/' %} aria-current="location"{% endif %}>Research</a>
+          <a href="{% unless page.url == '/' %}{{ home }}{% endunless %}#experience">Experience</a>
+          <a class="nav-cv" href="{{ '/cv/' | relative_url }}"{% if page.url == '/cv/' %} aria-current="page"{% endif %}>CV</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="site-width" id="main" tabindex="-1">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <div class="site-width footer-inner">
+        <div>
+          <p class="footer-name">{{ site.title | escape }}</p>
+          <a href="mailto:{{ site.research_email }}">{{ site.research_email }}</a>
+        </div>
+        <ul class="footer-links" aria-label="Profiles">
+          <li><a href="{{ scholar }}">Google Scholar</a></li>
+          <li><a href="https://github.com/{{ site.author.github }}">GitHub</a></li>
+          <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a></li>
+          <li><a href="{{ site.author.orcid | escape }}">ORCID</a></li>
+          <li><a href="https://x.com/{{ site.author.twitter }}">X</a></li>
+        </ul>
+      </div>
+    </footer>
+  </body>
+</html>

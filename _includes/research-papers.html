@@ -1,0 +1,65 @@
+{% assign papers = site.data.research_papers %}
+{% if include.selected %}
+  {% assign papers = papers | where_exp: 'paper', 'paper.takeaway != nil' %}
+{% endif %}
+<div class="papers"{% unless include.selected %} data-papers{% endunless %}>
+  {% unless include.selected %}
+  {% assign years = papers | map: 'year' | uniq | sort | reverse %}
+  {% assign areas = papers | map: 'area' | uniq %}
+  <div class="paper-filters" data-filters hidden>
+    <div class="filter-options">
+      <label>Topic
+        <select data-area>
+          <option value="">All topics</option>
+          {% for area in areas %}<option>{{ area | escape }}</option>{% endfor %}
+        </select>
+      </label>
+      <label>Year
+        <select data-year>
+          <option value="">All years</option>
+          {% for year in years %}<option>{{ year }}</option>{% endfor %}
+        </select>
+      </label>
+    </div>
+    <p class="paper-count" data-count role="status"></p>
+  </div>
+  {% endunless %}
+  <ul class="paper-grid" aria-label="{% if include.selected %}Selected papers{% else %}Publications{% endif %}">
+    {% for paper in papers %}
+      <li class="paper-card" data-paper-area="{{ paper.area | escape }}" data-paper-year="{{ paper.year }}">
+        {% if paper.figure %}
+          <a class="paper-thumbnail" href="{{ paper.figure.source | escape }}" title="{{ paper.figure.label | escape }} from {{ paper.figure.credit | default: paper.title | escape }}">
+            <img src="{{ paper.figure.file | prepend: '/images/papers/' | relative_url }}" alt="{{ paper.figure.alt | escape }}" loading="lazy" decoding="async">
+          </a>
+          {% if paper.figure.credit %}<p class="paper-note">Figure from {{ paper.figure.credit | escape }}</p>{% endif %}
+        {% endif %}
+        <p class="paper-meta">
+          {% if paper.venue_url %}
+            <a href="{{ paper.venue_url | escape }}">{{ paper.venue | escape }}</a>
+          {% else %}
+            {{ paper.venue | escape }} · {{ paper.year }}
+          {% endif %}
+        </p>
+        {% if include.selected %}
+          <h4>{{ paper.title | escape }}</h4>
+        {% else %}
+          <h2>{{ paper.title | escape }}</h2>
+        {% endif %}
+        <p class="paper-authors">{{ paper.authors }}{% if paper.alphabetical %} <span class="author-order">(alphabetical order)</span>{% endif %}</p>
+        {% if include.selected %}<p class="paper-takeaway">{{ paper.takeaway | escape }}</p>{% endif %}
+        {% if paper.note %}<p class="paper-note">{{ paper.note | escape }}</p>{% endif %}
+        {% if paper.links.size > 0 %}
+          <ul class="paper-links" aria-label="Resources">
+            {% for resource in paper.links %}
+              <li><a href="{{ resource.url | escape }}" aria-label="{{ resource.label | escape }} for {{ paper.title | escape }}">{{ resource.label | escape }}</a></li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+  <div class="papers-footer">
+    <p class="contribution-note"><sup>†</sup> Equal contribution</p>
+    {% if include.selected %}<a class="button" href="{{ '/publications/' | relative_url }}">View all publications</a>{% endif %}
+  </div>
+</div>

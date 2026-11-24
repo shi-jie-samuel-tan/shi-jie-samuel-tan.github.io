@@ -10,7 +10,8 @@ locale                   : "en-US"
 title                    : "Shi Jie Samuel Tan"
 title_separator          : "-"
 name                     : &name "Shi Jie Samuel Tan"
-description              : &description "Shi Jie Samuel Tan's Personal Website"
+description              : &description "Shi Jie Samuel Tan, Computer Science PhD candidate at the University of Maryland, researching quantum error correction and fault tolerance."
+research_email           : "stan97@umd.edu"
 url                      : https://shi-jie-samuel-tan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shi-jie-samuel-tan/shi-jie-samuel-tan.github.io"
@@ -81,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Shi Jie Samuel Tan"
-  avatar           : "ShiJieSamuelTan_pfp.jpeg"
+  avatar           : "samuel-tan-profile.jpg"
   bio              : "An aspiring CS theorist hoping to bring quantum algorithms to life with quantum error correction and fault tolerance"
   location         : "College Park, MD, USA"
   employer         :

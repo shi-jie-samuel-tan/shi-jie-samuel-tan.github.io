@@ -1,0 +1,261 @@
+- title: "Addressable transversal CCZ gates on almost good quantum LDPC codes and nearly optimal magic state protocols"
+  takeaway: Under a local expansion assumption, our codes support individually selectable transversal CCZ gates and yield low-overhead magic-state protocols.
+  figure:
+    file: 2611.23762.png
+    label: Figure 7
+    source: https://arxiv.org/pdf/2611.23762#page=46
+    alt: Two diagrams showing how the order of factors in the cellular-sheaf cup product determines the endpoint restriction.
+  year: 2026
+  area: Quantum error correction
+  authors: "<strong>S. J. S. Tan</strong>, G. Zhu."
+  alphabetical: true
+  venue: arXiv
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2611.23762
+
+- title: "Polynomial-time additive-error estimation of output probabilities for shallow quantum circuits"
+  figure:
+    file: 2610.02146.png
+    label: Figure 2
+    source: https://arxiv.org/pdf/2610.02146#page=4
+    alt: A grid showing agreeing and disagreeing output bits in one term of the inclusion–exclusion decomposition.
+  year: 2026
+  area: Quantum algorithms
+  authors: "M. Coudron, M. J. Gullans, J. Nelson, J. Rajakumar, <strong>S. J. S. Tan</strong>."
+  alphabetical: true
+  venue: arXiv
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2610.02146
+
+- title: "Sipser-Spielman meets Dijkgraaf-Witten: non-Abelian qLDPC codes via twisted sheaf gauge theory and almost-constant-overhead magic state fountain"
+  figure:
+    file: 2609.31541.png
+    label: Figure 3
+    source: https://arxiv.org/pdf/2609.31541#page=13
+    alt: Codewords of a classical code and its transpose before and after subdivision into a sheaf code.
+  year: 2026
+  area: Quantum error correction
+  authors: "G. Zhu, <strong>S. J. S. Tan</strong>, R. Kobayashi, P.-S. Hsin."
+  venue: arXiv
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2609.31541
+    - label: Guanyu's talk at KITP
+      url: https://youtu.be/-8_wccQ6qP8?si=TyrpaY7t4i4k14Bj
+
+- title: "Achieving the limits of automorphism gates"
+  figure:
+    file: 2609.19250.png
+    label: Figure 1
+    source: https://arxiv.org/pdf/2609.19250#page=2
+    alt: Summary of the largest logical gate groups obtainable from single-qubit gates and permutations, and the physical qubit costs of addressability.
+  year: 2026
+  area: Quantum error correction
+  authors: "J. M. Koh<sup>†</sup>, S. Majidy<sup>†</sup>, A. Chakraborty, A. Gong, <strong>S. J. S. Tan</strong>, N. Y. Yao."
+  venue: arXiv
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2609.19250
+
+- title: "Generalized matching decoders for 2D topological translationally-invariant codes"
+  takeaway: We extend graph matching beyond the toric code and show in simulations that it can compete with established decoders on bivariate bicycle codes.
+  figure:
+    file: 2603.05402.png
+    label: Figure 5
+    source: https://arxiv.org/pdf/2603.05402#page=9
+    alt: Three panels showing the cell-matching decoder from raw syndrome through local flushing to global matching.
+  year: 2026
+  area: Quantum error correction
+  authors: "<strong>S. J. S. Tan</strong><sup>†</sup>, I. Gill<sup>†</sup>, E. Huang<sup>†</sup>, P. Liu, C. Zhao, H. Dehghani, A. Kubica, H. Zhou, A. Dua."
+  venue: arXiv
+  note: Contributed poster at QEC (2026).
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2603.05402
+
+- title: "Low-Overhead Surface Code with Delayed Atom-Loss Detection via Pauli Envelope"
+  figure:
+    file: 2603.04156.png
+    label: Figure 7
+    source: https://arxiv.org/pdf/2603.04156#page=8
+    alt: Mid-SWAP syndrome extraction, showing the spatial layout, two consecutive rounds, and the circuit identity.
+  year: 2026
+  area: Quantum error correction
+  authors: "P. Liu, <strong>S. J. S. Tan</strong>, E. Huang, U. A. Acar, H. Zhou, C. Zhao."
+  venue: arXiv
+  note: Contributed poster at QEC (2026).
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2603.04156
+
+- title: "Single-Shot Universality in Quantum LDPC Codes via Code-Switching"
+  takeaway: Switching between high-rate quantum codes enables a universal set of fault-tolerant logical operations with constant-depth circuits.
+  figure:
+    file: 2510.08552.png
+    label: Figure 6c
+    source: https://arxiv.org/pdf/2510.08552#page=40
+    alt: Single-shot code switching extends a 2D hypergraph product code into a 3D code, growing a logical X string into a membrane.
+  year: 2025
+  area: Quantum error correction
+  authors: "<strong>S. J. S. Tan</strong><sup>†</sup>, Y. Hong<sup>†</sup>, T.-C. Lin<sup>†</sup>, M. J. Gullans, M.-H. Hsieh."
+  venue: arXiv
+  note: Contributed short plenary talk at QIP (2026) and poster at QEC (2026).
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2510.08552
+    - label: Talk at QIP
+      url: https://youtu.be/Wz7lnGEsbxo?si=WEu_zcTps7B9mu0A
+
+- title: "Automorphism gadgets in homological product codes"
+  figure:
+    file: 2508.04794.png
+    label: Figure 4
+    source: https://arxiv.org/pdf/2508.04794#page=26
+    alt: The two hypergraph product automorphism gadgets permute qubits within columns and rows, respectively.
+  year: 2025
+  area: Quantum error correction
+  authors: "Y. Hong<sup>†</sup>, <strong>S. J. S. Tan</strong><sup>†</sup>, M. Mudassar, N. Berthusen, M. J. Gullans."
+  venue: arXiv
+  note: Contributed poster at QEC (2025).
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2508.04794
+    - label: Yifan's talk at KITP
+      url: https://youtu.be/oGDQCSKTRhc
+
+- title: "Adaptive Syndrome Extraction"
+  takeaway: Using early error signals to decide which checks to measure reduced logical error rates and the number of CNOT gates in simulations.
+  figure:
+    file: 2502.14835.png
+    label: Figure 5
+    source: https://arxiv.org/pdf/2502.14835#page=8
+    alt: Logical error rates and CNOT counts for adaptive concatenated, standard, and nonadaptive concatenated hypergraph product codes.
+  year: 2025
+  area: Quantum error correction
+  authors: "N. Berthusen, <strong>S. J. S. Tan</strong>, E. Huang, D. Gottesman."
+  venue: PRX Quantum (2025)
+  venue_url: https://doi.org/10.1103/ps3r-wf84
+  note: Contributed talk at TQC (2025) and poster at QEC (2025).
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2502.14835
+    - label: Talk at TQC
+      url: https://youtu.be/-mrgQbF-B3c?si=oLAnZ5LbWthlXqq7
+    - label: Noah's talk at APQEC
+      url: https://youtu.be/iwDiB81ZcBU
+    - label: Eric's talk at YITP
+      url: https://youtu.be/s4mJKkr6HO8
+
+- title: "Effective Distance of Higher Dimensional HGPs and Weight-Reduced Quantum LDPC Codes"
+  figure:
+    file: 2409.02193.png
+    label: Figure 2
+    source: https://arxiv.org/pdf/2409.02193#page=8
+    alt: A regular surface code, a thickened surface code, and the thickened code after choosing stabilizer heights.
+  year: 2025
+  area: Quantum error correction
+  authors: "<strong>S. J. S. Tan</strong>, L. Stambler."
+  venue: Quantum (2025)
+  venue_url: https://doi.org/10.22331/q-2025-10-28-1897
+  note: Contributed poster at QIP (2025).
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2409.02193
+    - label: Talk at UMD CCSP
+      url: https://youtu.be/h3ahgjAhyOI
+
+- title: "Resilience of the surface code to error bursts"
+  figure:
+    file: 2406.18897.png
+    label: Figure 4
+    source: https://arxiv.org/pdf/2406.18897#page=5
+    alt: Phase diagram identifying the surface-code threshold as a function of burst and background error rates under circuit-level noise.
+  year: 2026
+  area: Quantum error correction
+  authors: "<strong>S. J. S. Tan</strong>, C. A. Pattison, M. McEwen, J. Preskill."
+  venue: Physical Review A (2026)
+  venue_url: https://journals.aps.org/pra/abstract/10.1103/vwtl-hwfx
+  note: Contributed poster at QEC (2023).
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2406.18897
+
+- title: "Optimal Coherent Quantum Phase Estimation via Tapering"
+  figure:
+    file: 2403.18927.png
+    label: Figure 3
+    source: https://arxiv.org/pdf/2403.18927#page=10
+    alt: Success probability versus phase offset for sine, cosine, and two shifted DPSS tapers.
+  year: 2026
+  area: Quantum algorithms
+  authors: "D. Patel<sup>†</sup>, <strong>S. J. S. Tan</strong><sup>†</sup>, Y. Subaşı, A. T. Sornborger."
+  venue: PRX Quantum (2026)
+  venue_url: https://doi.org/10.1103/l5y6-6zxv
+  note: Contributed poster at TQC (2024) and talk at APS March Meeting (2024).
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2403.18927
+
+- title: "Approximating output probabilities of shallow quantum circuits which are geometrically-local in any fixed dimension"
+  figure:
+    file: 2012.05460.png
+    label: Figure 3
+    source: https://arxiv.org/pdf/2012.05460#page=6
+    alt: Color-coded unitary regions in a shallow circuit on a two-dimensional grid of qubits.
+    credit: Coble and Coudron, arXiv:2012.05460
+  year: 2022
+  area: Quantum algorithms
+  authors: "S. Dontha<sup>†</sup>, <strong>S. J. S. Tan</strong><sup>†</sup>, S. Smith, S. Choi, M. Coudron."
+  venue: Proceedings of TQC (2022)
+  venue_url: https://doi.org/10.4230/LIPIcs.TQC.2022.9
+  note: Contributed talk at TQC (2022) and poster at QIP (2022)
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2202.08349
+
+- title: "Identity-by-descent (IBD) segment outlier detection in endogamous populations using pedigree cohorts"
+  figure:
+    file: 2024.08.07.607051.png
+    label: Figure 4
+    source: https://www.biorxiv.org/content/10.1101/2024.08.07.607051v1.full.pdf
+    alt: Histograms showing the percentage of false positives in inferred IBD cohorts at three genotyping error rates.
+  year: 2024
+  area: Earlier work
+  authors: "<strong>S. J. S. Tan</strong>, H. T. Dang, S. Keim, M. Bućan, S. Mathieson."
+  venue: bioRxiv
+  links:
+    - label: bioRxiv
+      url: https://www.biorxiv.org/content/10.1101/2024.08.07.607051v1.abstract
+
+- title: "Random Walks on the Generalized Symmetric Group: Cutoff for the One-sided Transposition Shuffle"
+  year: 2022
+  area: Earlier work
+  authors: "Y. Deng, <strong>S. J. S. Tan</strong>."
+  alphabetical: true
+  venue: arXiv
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2211.10462
+
+- title: "Comparison of cohort-based identical-by-descent (IBD) segment finding methods for endogamous populations"
+  year: 2022
+  area: Earlier work
+  authors: "H. T. Dang<sup>†</sup>, <strong>S. J. S. Tan</strong><sup>†</sup>, S. Mathieson."
+  venue: Proceedings of ACM-BCB (2022)
+  venue_url: https://dl.acm.org/doi/abs/10.1145/3535508.3545104
+  links: []
+
+- title: "Ancestral haplotype reconstruction in endogamous populations using identity-by-descent"
+  figure:
+    file: 1008638.png
+    label: Figure 12
+    source: https://doi.org/10.1371/journal.pcbi.1008638.g012
+    alt: Four examples of reconstructed ancestral haplotypes showing grouped identity-by-descent segments across chromosomes and generations.
+  year: 2021
+  area: Earlier work
+  authors: "K. Finke, M. Kourakos, G. Brown, H. T. Dang, <strong>S. J. S. Tan</strong>, Y. B. Simons, S. Ramdas, A. A. Schäffer, R. L. Kember, M. Bućan, S. Mathieson."
+  venue: PLOS Computational Biology (2021)
+  venue_url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008638
+  links: []

@@ -1,0 +1,8 @@
+<ul class="timeline">
+  {% for update in include.entries %}
+    <li>
+      <time datetime="{{ update.datetime }}">{{ update.datetime | append: '-01' | date: '%b %Y' }}</time>
+      {{ update.text | markdownify }}
+    </li>
+  {% endfor %}
+</ul>
